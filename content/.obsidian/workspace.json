@@ -184,11 +184,13 @@
   "active": "b39dddcddacc1e0a",
   "lastOpenFiles": [
     "📄Templates/default.md",
+    "📄Templates",
+    "Templates/default.md",
+    "Templates",
     "index.md",
     "未命名.md",
     "✍️Writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
     "✍️Writings",
-    "📄Templates",
     "full-text search.md",
     "200⚙️-Techs/数据库/数据库范式.md",
     "200⚙️-Techs/数据库/文件, 页, 记录.md",
@@ -210,8 +212,6 @@
     "面试/LeetCode/二分查找.md",
     "面试/LeetCode/合并链表模板.md",
     "面试/LeetCode/二叉树遍历.md",
-    "面试/LeetCode/快速排序.md",
-    "面试/LeetCode/前K个元素.md",
     "700🎮-Gaming/帝国时代2",
     "700🎮-Gaming",
     "🏋️健身",
@@ -228,7 +228,6 @@
     "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 8.png",
     "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 7.png",
     "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 6.png",
-    "健身🏋️/健身/新手健身入门 9430092a23d340528eb2f835d05ee03c",
     "300📖-Book/置身事内-中国政府与经济发展/未命名.canvas"
   ]
 }
