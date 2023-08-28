@@ -51,4 +51,4 @@ If you're still having trouble, feel free to [submit an issue](https://github.co
 
 [[用管道、重定向与 fork() 测试使用标准输入输出的程序|123]]
 
-[[用管道、重定向与 fork() 测试使用标准输入输出的程序#改造 nasm 程序]]
+[[用管道、重定向与 fork() 测试使用标准输入输出的程序#改造 nasm 程序|改造 nasmsmsm 程序]]
