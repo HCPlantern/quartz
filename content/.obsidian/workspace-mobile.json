@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "a4fed26b3e72d190",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b836ce2082a7843",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f64dae91ce8660",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a1c56374cf68111",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "06e5a212f4ede1ee",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c1ec94d66492607",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9cd532041daf00ab",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "33513dd4cb2424f7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9873582e0dff8334",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4f169e5ed8ba87c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "45f39468314bd7db",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "02604bde8c937276",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-metatable:Metatable": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "06e5a212f4ede1ee",
+  "lastOpenFiles": [
+    "面试/面经/4-网络.md",
+    "面试/面经/微众银行面经.md",
+    "面试/面经/8-中间件.md",
+    "面试/面经/9-设计模式.md",
+    "面试/面经/5-操作系统.md",
+    "面试/面经/11-设计题.md",
+    "面试/面经/6-MySQL.md",
+    "面试/面经/7-Spring.md",
+    "面试/面经/CVTE_后台一面.md",
+    "面试/LeetCode/图搜索.md",
+    "面试/面经/3-Java 并发.md",
+    "面试/面经/1-Java 基础.md",
+    "面试/面经/字节后端实习一面凉经.md",
+    "面试/面经/2-Java 虚拟机.md",
+    "面试/LeetCode/快速排序.md",
+    "面试/面经/10-数据结构与算法.md",
+    "面试/LeetCode/拓扑排序.md",
+    "面试/LeetCode/差分数组.md",
+    "面试/LeetCode/回溯算法.md",
+    "面试/LeetCode/二分查找.md",
+    "面试/面经/0-Content面经.md",
+    "面试/LeetCode/前K个元素.md",
+    "面试/LeetCode/二叉树遍历.md",
+    "面试/LeetCode/实现 LRU.md",
+    "面试/LeetCode/合并链表模板.md",
+    "面试/LeetCode/三数&四数之和.md",
+    "900🗃️-Archive/课程/校内/32-服务端开发/复习",
+    "900🗃️-Archive/课程/校内/21-操作系统/慕课选择题",
+    "900🗃️-Archive/课程/校内/24-需求与商业模式/考试",
+    "900🗃️-Archive/课程/校内/24-需求与商业模式/笔记",
+    "900🗃️-Archive/课程/校内/24-需求与商业模式/需求",
+    "900🗃️-Archive/课程/校内/24-需求与商业模式/商业模式",
+    "900🗃️-Archive/课程/校内/13-c++高级程序设计/C++-OOP",
+    "900🗃️-Archive/课程/校内/13-c++高级程序设计/C++-数据结构",
+    "900🗃️-Archive/课程/校内/11-计网",
+    "900🗃️-Archive/课程/自学/93-xv6"
+  ]
+}

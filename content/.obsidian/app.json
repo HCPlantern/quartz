@@ -1,0 +1,12 @@
+{
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "shortest"
+}
