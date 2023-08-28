@@ -1,7 +1,10 @@
 
 ---
+id: 20230828220542
+title: 用管道、重定向与 fork() 测试使用标准输入输出的程序
+date: 2023-08-28 22:05
 draft: false
-tags: TagB/TagC, tagA 
+tags:
 ---
 
 ## 背景
