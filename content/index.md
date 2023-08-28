@@ -45,3 +45,5 @@ Having trouble with Quartz? Try searching for your issue using the search featur
 If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
 
 #tagA #TagB/TagC
+
+[[用管道、重定向与 fork() 测试使用标准输入输出的程序]]
