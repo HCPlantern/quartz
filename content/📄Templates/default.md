@@ -1,7 +1,7 @@
 ---
 id: {{date:YYYYMMDD}}{{time:HHmmss}}
 title: 
-draft: true
+draft: false
 tags:
 date: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 ---
