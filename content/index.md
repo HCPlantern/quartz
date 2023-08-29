@@ -2,6 +2,6 @@
 title: Welcome to Quartz 4
 ---
 
-## 板块
+## Entry Points
 
 ✍️[[Writings]]:  A collection of my writings
