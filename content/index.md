@@ -16,5 +16,5 @@ There are multiple ways to navigate my Second Brain:
 3. Interact with the graph at the bottom of the page to visualize connections between notes and click on any node to navigate directly to that note.
 4. Click on the [Hashtags](tags) to explore the topics by tags.
 
-# Contents
+# # Contents
 [[writings/Static-Analysis/index|Static Analysis]]

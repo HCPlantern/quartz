@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { FullSlug, SimpleSlug } from "./quartz/util/path"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent Writings",
       limit: 3,
       filter: (f) => f.slug!.startsWith("writings/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-      linkToMore: "writings/" as FullSlug,
+      linkToMore: "writings/" as SimpleSlug,
     })),
   ],
   right: [Component.Graph(), Component.Backlinks()],
