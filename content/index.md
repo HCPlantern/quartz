@@ -1,54 +1,20 @@
+
 ---
-title: Welcome to Quartz 4
+id: 20230830214437
+title: Welcome to hcplantern.cn
+date: 2023-08-30 21:44
+draft: false
+tags: 
 ---
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers are [[showcase|already using Quartz]] to publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+# # Navigation
 
-## 🪴 Get Started
+There are multiple ways to navigate my Second Brain:
 
-Quartz requires **at least [Node](https://nodejs.org/) v18.14** to function correctly. Ensure you have this installed on your machine before continuing.
+1. Use the search bar on the top right or press `cmd+k` (`ctrl+k` on Windows) or click on the Search button (top right) to search for any term.
+2. Click on a note to explore its content, and follow the links and backlinks to dive deeper into related topics.
+3. Interact with the graph at the bottom of the page to visualize connections between notes and click on any node to navigate directly to that note.
+4. Click on the [Hashtags](tags) to explore the topics by tags.
 
-Then, in your terminal of choice, enter the following commands line by line:
-
-```shell
-git clone https://github.com/jackyzha0/quartz.git
-cd quartz
-npm i
-npx quartz create
-```
-
-This will guide you through initializing your Quartz with content. Once you've done so, see how to:
-
-1. [[authoring content|Author content]] in Quartz
-2. [[configuration|Configure]] Quartz's behaviour
-3. Change Quartz's [[layout]]
-4. [[build|Build and preview]] Quartz
-5. [[hosting|Host]] Quartz online
-
-> [!info]
-> Coming from Quartz 3? See the [[migrating from Quartz 3|migration guide]] for the differences between Quartz 3 and Quartz 4 and how to migrate.
-
-## 🔧 Features
-
-- [[Obsidian compatibility]], [[full-text search]], [[graph view]], [[wikilinks]], [[backlinks]], [[Latex]], [[syntax highlighting]], [[popover previews]], and [many more](./features) right out of the box
-- Hot-reload for both configuration and content
-- Simple JSX layouts and [[creating components|page components]]
-- [[SPA Routing|Ridiculously fast page loads]] and tiny bundle sizes
-- Fully-customizable parsing, filtering, and page generation through [[making plugins|plugins]]
-
-For a comprehensive list of features, visit the [features page](/features). You can read more about the _why_ behind these features on the [[philosophy]] page and a technical overview on the [[architecture]] page.
-
-### 🚧 Troubleshooting + Updating
-
-Having trouble with Quartz? Try searching for your issue using the search feature. If you haven't already, [[upgrading|upgrade]] to the newest version of Quartz to see if this fixes your issue.
-
-If you're still having trouble, feel free to [submit an issue](https://github.com/jackyzha0/quartz/issues) if you feel you found a bug or ask for help in our [Discord Community](https://discord.gg/cRFFHYye7t).
-
-#tagA #TagB/TagC
-
-[[用管道、重定向与 fork() 测试使用标准输入输出的程序]]
-[[用管道、重定向与 fork() 测试使用标准输入输出的程序]]
-
-[[用管道、重定向与 fork() 测试使用标准输入输出的程序|123]]
-
-[[用管道、重定向与 fork() 测试使用标准输入输出的程序#改造 nasm 程序|改造 nasmsmsm 程序]]
+# Contents
+[[writings/Static-Analysis/index|Static Analysis]]
