@@ -5,7 +5,7 @@ title: 用管道、重定向与 fork() 测试使用标准输入输出的程序
 alias: 
 date: 2022-10-04 00:17
 draft: false
-tags: writing tricks
+tags: writing, tricks
 ---
 
 ## 背景

@@ -4,7 +4,7 @@ title: 使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务
 alias: 
 date: 2022-09-27 09:20
 draft: false
-tags: writing tricks
+tags: writing, tricks
 ---
 
 ![](https://cdn.hcplantern.cn/img/202205151528372.png)
