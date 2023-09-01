@@ -7,4 +7,4 @@ draft: false
 tags: 
 ---
 
-📒These are my study notes for *Static Analysis*.
+📒These are some study notes for *Static Analysis*.

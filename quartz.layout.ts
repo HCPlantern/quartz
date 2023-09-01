@@ -24,13 +24,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.DesktopOnly(Component.RecentNotes({
-      title: "Recent Writings",
+      title: "Recent Notes",
       limit: 3,
-      filter: (f) => f.slug!.startsWith("writings/") && f.slug! !== "posts/index" && !f.frontmatter?.noindex,
-      linkToMore: "writings/" as SimpleSlug,
+      // filter: (f) => f.slug!.startsWith("writings/") && f.slug! !== "writings/index" && !f.frontmatter?.noindex,
+      // linkToMore: "writings/" as SimpleSlug,
     })),
   ],
-  right: [Component.Graph(), Component.Backlinks()],
+  right: [
+    Component.Graph(),
+    Component.Backlinks(),
+  ]
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -41,6 +44,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
+    Component.DesktopOnly(Component.RecentNotes({
+
+    })),
   ],
   right: [],
 }

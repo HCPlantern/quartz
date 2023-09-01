@@ -54,5 +54,9 @@
   "anuppuccin-theme-settings@@anp-background-image-toggle": false,
   "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
-  "yaozhuwa@css@@blank-line-tweak": false
+  "yaozhuwa@css@@blank-line-tweak": false,
+  "yaozhuwa@css@@outline-tweak": false,
+  "yaozhuwa@css@@seamless-embed": false,
+  "yaozhuwa@css@@clutter-free-headings": false,
+  "yaozhuwa@css@@code-line-number": false
 }

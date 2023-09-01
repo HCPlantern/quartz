@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writings/Static-Analysis/index.md",
+                "file": "templates/default.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writings/Static-Analysis/index.md"
+                "file": "templates/default.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writings/Static-Analysis/index.md",
+                "file": "templates/default.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writings/Static-Analysis/index.md",
+                "file": "templates/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,44 +181,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b39dddcddacc1e0a",
+  "active": "540b73a8083ca95b",
   "lastOpenFiles": [
-    "writings/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
-    "writings/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
+    "writings/Static-Analysis/01-Introduction.md",
+    "writings/Static-Analysis/05&06-Data Flow Analysis Foundations.md",
+    "writings/Static-Analysis/index.md",
     "writings/index.md",
     "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
     "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
-    "excerpt/健身房健身.md",
-    "excerpt/家庭健身.md",
-    "writings/Static-Analysis/index.md",
-    "writings/Static-Analysis/10-Pointer Analysis Foundations II.md",
-    "writings/Static-Analysis/08-Pointer Analysis.md",
-    "writings/Static-Analysis/05&06-Data Flow Analysis Foundations.md",
-    "writings/Static-Analysis/03&04-Data Flow Analysis Applications.md",
-    "writings/Static-Analysis/02-Intermediate Representation.md",
-    "writings/Static-Analysis/01-Introduction.md",
-    "excerpt",
-    "cards/exce.md",
-    "private",
-    "cards",
-    "books",
-    "writings/Static-Analysis/09-Pointer Analysis Foundations I.md",
     "index.md",
-    "templates/default.md",
-    "writings/Static-Analysis/07-Interprocedural Analysis.md",
-    "writings/静态分析/lab.md",
-    "writings/Static-Analysis",
-    "templates",
-    "template/default.md",
-    "template",
-    "writings",
-    "tempaltes/default.md",
-    "tempaltes",
-    "✍️Writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
-    "📄Templates/default.md",
-    "📄Templates",
-    "Templates/default.md",
+    "writings/Static-Analysis/09-Pointer Analysis Foundations I.md",
+    "private/面试/LeetCode/拓扑排序.md",
+    "private/面试/LeetCode/快速排序.md",
+    "private/面试/LeetCode/差分数组.md",
+    "private/面试/LeetCode/实现 LRU.md",
+    "private/面试/LeetCode/图搜索.md",
+    "private/面试/LeetCode/回溯算法.md",
+    "private/面试/LeetCode/合并链表模板.md",
+    "private/面试/LeetCode/单词拆分.md",
+    "private/面试/LeetCode/前K个元素.md",
+    "private/面试/LeetCode/二叉树遍历.md",
+    "private/面试/LeetCode/二分查找.md",
+    "private/面试/面经/微众银行面经.md",
+    "private/面试/面经/字节后端实习一面凉经.md",
+    "private/面试/LeetCode/三数&四数之和.md",
+    "private/面试/面经/CVTE_后台一面.md",
+    "private/面试/LeetCode/K个一组翻转链表.md",
+    "private/面试/面经/8-中间件.md",
+    "private/面试/LeetCode",
+    "private/面试/面经",
+    "private/面试/Java并发",
+    "private/面试/JavaNotesForInterview-master",
+    "private/面试",
+    "面试/面经",
+    "面试/LeetCode",
+    "面试/Java并发",
+    "面试/JavaNotesForInterview-master",
+    "面试",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
