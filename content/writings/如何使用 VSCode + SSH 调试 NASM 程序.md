@@ -4,7 +4,7 @@ title: 如何使用 VSCode + SSH 调试 NASM 程序
 alias:
 date: 2022-09-28 10:44
 draft: false
-tags: tricks
+tags: writing tricks
 ---
 
 ## 前言

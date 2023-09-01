@@ -1,7 +1,7 @@
 ---
 id: 20220922134652
 alias: 中间表示, IR
-tags: study-notes/static-analysis
+tags: static-analysis
 date: 2022-09-22 13:46
 source: https://www.bilibili.com/video/BV1zE411s77Z/
 ---

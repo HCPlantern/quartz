@@ -5,8 +5,9 @@
   "promptDelete": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./assets",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "strictLineBreaks": true,
   "showFrontmatter": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "cards"
 }

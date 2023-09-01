@@ -1,7 +1,7 @@
 ---
 id: 20221103152649
 alias:
-tags: study-notes/static-analysis
+tags: static-analysis
 date: 2022-11-03 15:26
 source: 
 ---
