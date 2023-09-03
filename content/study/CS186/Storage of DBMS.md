@@ -5,7 +5,8 @@ aliases:
   - 数据库存储结构
 date: 2023-09-03 14:55
 draft: false
-tags: []
+tags:
+  - database
 ---
 Tables are stored as logical files consisting of pages. Each page contains a collection of records.
 > [!info] Storage Structure
@@ -31,24 +32,31 @@ Each header page contains a pointer (byte offset) to the next header page, and i
 
 ![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-154448.png-default)
 
-Consider the following example where a heap file is implemented as both a Linked List and a Page Directory. Each page is 30 bytes and a 20 byte record is being inserted into the file:
-
-Linked List: 
-
-![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-154801.png-default)
-
-
-Page Directory: 
-
-![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-154825.png-default)
+**The main advantage of Page Directories over Linked Lists is that inserting records is often faster.** 
+> [!example]  
+> Consider the following example where a heap file is implemented as both a Linked List and a Page Directory. Each page is 30 bytes and a 20 byte record is being inserted into the file:
+> Linked List: 
+> ![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-154801.png-default)
+> 
+> Page Directory: 
+> ![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-154825.png-default)
 
 
 ### Sorted File
 
+**A sorted file is a file type where pages are ordered and records within each page are sorted by key (s).**
+
+Inserted record could potentially cause all later records to be pushed back by one.
+
+![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-221300.png-default)
 
 ## Page
 
 Pages are managed in memory by **buffer manager** or managed on disk by the **disk space manager**. Unit of accesses to physical disk is the page.
+
+
+
+
 
 ### Page header
 
@@ -63,7 +71,7 @@ Header used to keep track of records in the page.
 
 We can store fixed length records in two ways:
 - **packed**: no gaps between records, record ID is location in page
-- **unpacked**: allow gaps between records, use a bitmap to keep track of where the gaps are
+- **unpacked**: allow gaps between records. The unpacked page use a bitmap to keep track of where the gaps are.
 ![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-153104.png-default)
 
 ### Variable Length Records: Slotted Pages

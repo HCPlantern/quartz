@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d6ea0e5337f23b0",
+            "id": "bdc531f6e611b85d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/index.md",
+                "file": "study/CS186/B+ Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/index.md"
+                "file": "study/CS186/B+ Tree.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/index.md",
+                "file": "study/CS186/B+ Tree.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/index.md",
+                "file": "study/CS186/B+ Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,13 +181,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4d6ea0e5337f23b0",
+  "active": "bdc531f6e611b85d",
   "lastOpenFiles": [
-    "index.md",
+    "study/CS186/index.md",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/B+ Tree.md",
+    "study/CS186/Architecture of DBMS.md",
+    "study/CS186/Storage of DBMS.md",
     "study/index.md",
+    "study/Static-Analysis/index.md",
+    "docs/features/callouts.md",
+    "cards/B+ Tree.md",
+    "cards/Relationship Between Database Page and OS Page.md",
+    "cards/Storage of DBMS.md",
+    "cards/Architecture of DBMS.md",
+    "index.md",
+    "excerpt/家庭健身.md",
+    "study/CS186",
+    "docs/features/syntax highlighting.md",
+    "docs/features/OxHugo compatibility.md",
+    "docs/features/folder and tag listings.md",
     "excerpt/index.md",
     "excerpt/健身房健身.md",
-    "excerpt/家庭健身.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "docs/features/upcoming features.md",
     "docs/features/wikilinks.md",
@@ -196,22 +211,8 @@
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
     "docs/images/dns records.png",
-    "docs/features/syntax highlighting.md",
     "docs/features/SPA Routing.md",
     "docs/features/RSS Feed.md",
-    "docs/features/recent notes.md",
-    "docs/features/private pages.md",
-    "docs/features/popover previews.md",
-    "docs/features/OxHugo compatibility.md",
-    "docs/features/Obsidian compatibility.md",
-    "docs/features/Mermaid diagrams.md",
-    "docs/features/Latex.md",
-    "docs/features/index.md",
-    "docs/features/graph view.md",
-    "docs/features/full-text search.md",
-    "docs/features/folder and tag listings.md",
-    "docs/features/darkmode.md",
-    "docs/features/callouts.md",
     "docs/tags",
     "docs/images",
     "docs/features",
@@ -221,7 +222,6 @@
     "private/面试/LeetCode",
     "private/面试/面经",
     "private/面试/Java并发",
-    "private/面试/JavaNotesForInterview-master",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",

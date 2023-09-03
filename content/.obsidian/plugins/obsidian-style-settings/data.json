@@ -63,5 +63,6 @@
   "yaozhuwa@css@@increase-headings-gap": false,
   "yaozhuwa@css@@bigger-math-font": false,
   "yaozhuwa@css@@full-width-table": false,
-  "yaozhuwa@css@@table-line-number": false
+  "yaozhuwa@css@@table-line-number": false,
+  "yaozhuwa@css@@center-image": true
 }
