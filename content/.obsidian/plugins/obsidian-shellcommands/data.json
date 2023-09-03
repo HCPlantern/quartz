@@ -51,9 +51,19 @@
       },
       "output_channel_order": "stdout-first",
       "output_handling_mode": "buffered",
-      "events": {},
+      "events": {
+        "on-quit": {
+          "enabled": true
+        }
+      },
       "command_palette_availability": "enabled",
-      "preactions": [],
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": false,
+          "prompt_id": ""
+        }
+      ],
       "variable_default_values": {}
     }
   ],
