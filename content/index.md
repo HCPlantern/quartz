@@ -18,7 +18,7 @@ There are multiple ways to navigate my Second Brain:
 
 # # Contents
 
-[[writings/index|Writings]]
-[[Excerpt/index|Excerpt]]
-[[study/Static-Analysis/index|Static Analysis]]
-[[docs/index|Documentations of quartz 4.0]]
+-  [[writings/index|Writings]]
+-  [[Excerpt/index|Excerpt]]
+-  [[study/Static-Analysis/index|Static Analysis]]
+-  [[docs/index|Documentations of quartz 4.0]]
