@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "study/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "study/index.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "study/index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "study/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,10 +183,11 @@
   },
   "active": "4d6ea0e5337f23b0",
   "lastOpenFiles": [
+    "index.md",
+    "study/index.md",
     "excerpt/index.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
-    "index.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "docs/features/upcoming features.md",
     "docs/features/wikilinks.md",
@@ -211,7 +212,6 @@
     "docs/features/folder and tag listings.md",
     "docs/features/darkmode.md",
     "docs/features/callouts.md",
-    "docs/advanced/paths.md",
     "docs/tags",
     "docs/images",
     "docs/features",
