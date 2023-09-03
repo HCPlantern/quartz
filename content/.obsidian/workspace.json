@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
+                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "callout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/B+ Tree.md"
+                "file": "study/CS186/Relationship Between Database Page and OS Page.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
+                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
+                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,14 +184,14 @@
   },
   "active": "bdc531f6e611b85d",
   "lastOpenFiles": [
-    "study/CS186/index.md",
+    "docs/features/callouts.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/index.md",
     "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Storage of DBMS.md",
     "study/index.md",
     "study/Static-Analysis/index.md",
-    "docs/features/callouts.md",
     "cards/B+ Tree.md",
     "cards/Relationship Between Database Page and OS Page.md",
     "cards/Storage of DBMS.md",

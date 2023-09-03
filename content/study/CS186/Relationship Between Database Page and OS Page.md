@@ -8,7 +8,7 @@ tags:
   - database
   - os
 ---
-> [!source]
+> [!cite]
  > # [What is the relation between MySQL pages and Operating system pages?](https://dba.stackexchange.com/questions/224969/what-is-the-relation-between-mysql-pages-and-operating-system-pages)
  
  - page in OS memory means **part of virtual memory**. It may reside on disk 'cause this block of virtual memory is not being used, so it's not loaded into main memory now;
