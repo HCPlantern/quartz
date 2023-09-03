@@ -17,4 +17,4 @@ There are multiple ways to navigate my Second Brain:
 4. Click on the [Hashtags](tags) to explore the topics by tags.
 
 # # Contents
-[[writings/Static-Analysis/index|Static Analysis]]
+[[study/Static-Analysis/index|Static Analysis]]
