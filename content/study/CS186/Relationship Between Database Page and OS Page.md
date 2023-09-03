@@ -1,7 +1,8 @@
 ---
 id: 20230903222755
-title: 数据库页与OS页的关系
-aliases: []
+title: Relationship Between Database Page and OS Page
+aliases:
+  - 数据库页与OS页的关系
 date: 2023-09-03 22:27
 draft: false
 tags:
