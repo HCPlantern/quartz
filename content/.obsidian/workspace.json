@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md"
+                "file": "index.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,42 +183,45 @@
   },
   "active": "4d6ea0e5337f23b0",
   "lastOpenFiles": [
-    "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
-    "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
-    "study/Static-Analysis/index.md",
-    "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
-    "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
-    "study/Static-Analysis/09-Pointer Analysis Foundations I.md",
-    "study/Static-Analysis/08-Pointer Analysis.md",
-    "study/Static-Analysis/07-Interprocedural Analysis.md",
-    "study/Static-Analysis/02-Intermediate Representation.md",
-    "study/Static-Analysis/01-Introduction.md",
-    "index.md",
-    "cards/Storage of DBMS.md",
-    "cards/Architecture of DBMS.md",
-    "private/面试/面经/CVTE_后台一面.md",
-    "cards/2023-09-03.md",
-    "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
-    "study",
-    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
-    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
-    "templates/default.md",
+    "excerpt/index.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
-    "writings/index.md",
-    "private/面试/LeetCode/拓扑排序.md",
-    "private/面试/LeetCode/快速排序.md",
-    "private/面试/LeetCode/差分数组.md",
-    "private/面试/LeetCode/实现 LRU.md",
+    "index.md",
+    "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+    "docs/features/upcoming features.md",
+    "docs/features/wikilinks.md",
+    "docs/features/table of contents.md",
+    "docs/tags/component.md",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/quartz layout.png",
+    "docs/images/dns records.png",
+    "docs/features/syntax highlighting.md",
+    "docs/features/SPA Routing.md",
+    "docs/features/RSS Feed.md",
+    "docs/features/recent notes.md",
+    "docs/features/private pages.md",
+    "docs/features/popover previews.md",
+    "docs/features/OxHugo compatibility.md",
+    "docs/features/Obsidian compatibility.md",
+    "docs/features/Mermaid diagrams.md",
+    "docs/features/Latex.md",
+    "docs/features/index.md",
+    "docs/features/graph view.md",
+    "docs/features/full-text search.md",
+    "docs/features/folder and tag listings.md",
+    "docs/features/darkmode.md",
+    "docs/features/callouts.md",
+    "docs/advanced/paths.md",
+    "docs/tags",
+    "docs/images",
+    "docs/features",
+    "docs/advanced",
+    "docs",
+    "study",
     "private/面试/LeetCode",
     "private/面试/面经",
     "private/面试/Java并发",
     "private/面试/JavaNotesForInterview-master",
-    "private/面试",
-    "面试/面经",
-    "面试/LeetCode",
-    "面试/Java并发",
-    "面试/JavaNotesForInterview-master",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
@@ -226,9 +229,6 @@
     "健身🏋️/健身/assets/Untitled 1.png",
     "健身🏋️/健身/新手健身入门 9430092a23d340528eb2f835d05ee03c/Untitled.png",
     "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled.png",
-    "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 8.png",
-    "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 7.png",
-    "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled 6.png",
     "300📖-Book/置身事内-中国政府与经济发展/未命名.canvas"
   ]
 }

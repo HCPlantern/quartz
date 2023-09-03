@@ -17,4 +17,8 @@ There are multiple ways to navigate my Second Brain:
 4. Click on the [Hashtags](tags) to explore the topics by tags.
 
 # # Contents
+
+[[writings/index|Writings]]
+[[Excerpt/index|Excerpt]]
 [[study/Static-Analysis/index|Static Analysis]]
+[[docs/index|Documentations of quartz 4.0]]
