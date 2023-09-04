@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
+                "file": "writings/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Relationship Between Database Page and OS Page.md"
+                "file": "writings/index.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
+                "file": "writings/index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Relationship Between Database Page and OS Page.md",
+                "file": "writings/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,36 +183,36 @@
   },
   "active": "bdc531f6e611b85d",
   "lastOpenFiles": [
-    "docs/features/callouts.md",
-    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "templates/default.md",
+    "excerpt/健身房健身.md",
+    "excerpt/家庭健身.md",
+    "excerpt/index.md",
+    "study/index.md",
+    "writings/index.md",
+    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
+    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
+    "study/Static-Analysis/index.md",
     "study/CS186/index.md",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "docs/features/callouts.md",
     "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Storage of DBMS.md",
-    "study/index.md",
-    "study/Static-Analysis/index.md",
     "cards/B+ Tree.md",
     "cards/Relationship Between Database Page and OS Page.md",
     "cards/Storage of DBMS.md",
     "cards/Architecture of DBMS.md",
     "index.md",
-    "excerpt/家庭健身.md",
     "study/CS186",
     "docs/features/syntax highlighting.md",
     "docs/features/OxHugo compatibility.md",
     "docs/features/folder and tag listings.md",
-    "excerpt/index.md",
-    "excerpt/健身房健身.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "docs/features/upcoming features.md",
     "docs/features/wikilinks.md",
-    "docs/features/table of contents.md",
-    "docs/tags/component.md",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
     "docs/images/dns records.png",
-    "docs/features/SPA Routing.md",
-    "docs/features/RSS Feed.md",
     "docs/tags",
     "docs/images",
     "docs/features",
