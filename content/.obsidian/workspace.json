@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4297dcf1d9d23e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/_index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85d39c350b7a33a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
+                "file": "writings/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/B+ Tree.md"
+                "file": "writings/_index.md"
               }
             }
           },
@@ -166,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
+                "file": "writings/_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/B+ Tree.md",
+                "file": "writings/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,35 +181,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbbbfc30b58dd723",
+  "active": "540b73a8083ca95b",
   "lastOpenFiles": [
-    "study/CS186/Storage of DBMS.md",
+    "index.md",
+    "docs/_index.md",
+    "excerpt/_index.md",
+    "study/Static-Analysis/_index.md",
+    "study/_index.md",
     "study/CS186/_index.md",
+    "study/CS186/B+ Tree.md",
+    "study/CS186/Storage of DBMS.md",
     "docs/features/callouts.md",
     "study/CS186/Buffer Management.md",
-    "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
-    "study/_index.md",
     "study/CS186/Page.md",
     "study/CS186/Record.md",
     "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
     "private/面试/面经/6-MySQL.md",
-    "writings/index.md",
-    "index.md",
+    "writings/_index.md",
     "templates/default.md",
-    "excerpt/index.md",
     "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
-    "study/Static-Analysis/index.md",
     "cards/B+ Tree.md",
     "cards/Relationship Between Database Page and OS Page.md",
     "cards/Storage of DBMS.md",
     "cards/Architecture of DBMS.md",
     "study/CS186",
-    "docs/features/syntax highlighting.md",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
     "docs/images/dns records.png",

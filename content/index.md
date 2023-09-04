@@ -18,7 +18,7 @@ There are multiple ways to navigate my Second Brain:
 
 # # Contents
 
--  [[writings/index|Writings]]
--  [[excerpt/index|Excerpt]]
+-  [[writings/_index|Writings]]
+-  [[excerpt/_index|Excerpt]]
 -  [[study/_index|Study Notes]]
--  [[docs/index|Documentations of quartz 4.0]]
+-  [[docs/_index|Documentations of quartz 4.0]]
