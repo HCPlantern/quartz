@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writings/_index.md",
+                "file": "study/CS186/Storage of DBMS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writings/_index.md"
+                "file": "study/CS186/Storage of DBMS.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writings/_index.md",
+                "file": "study/CS186/Storage of DBMS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writings/_index.md",
+                "file": "study/CS186/Storage of DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,13 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "540b73a8083ca95b",
+  "active": "cbbbfc30b58dd723",
   "lastOpenFiles": [
+    "study/_index.md",
     "index.md",
+    "writings/_index.md",
+    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
+    "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
+    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
     "docs/_index.md",
     "excerpt/_index.md",
     "study/Static-Analysis/_index.md",
-    "study/_index.md",
     "study/CS186/_index.md",
     "study/CS186/B+ Tree.md",
     "study/CS186/Storage of DBMS.md",
@@ -201,14 +205,10 @@
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
     "private/面试/面经/6-MySQL.md",
-    "writings/_index.md",
     "templates/default.md",
-    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
-    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
     "cards/B+ Tree.md",
     "cards/Relationship Between Database Page and OS Page.md",
     "cards/Storage of DBMS.md",
-    "cards/Architecture of DBMS.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
