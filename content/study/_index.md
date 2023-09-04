@@ -9,4 +9,4 @@ tags: []
 学习笔记，通常是以完整的文章的形式呈现。
 
 - [[study/Static-Analysis/index|Static Analysis]]
-- [[study/CS186/index|CS186]]
+- [[study/CS186/_index|CS186]]

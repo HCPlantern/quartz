@@ -52,32 +52,8 @@ Inserted record could potentially cause all later records to be pushed back by o
 
 ## Page
 
-Pages are managed in memory by **buffer manager** or managed on disk by the **disk space manager**. Unit of accesses to physical disk is the page.
-
-
-
-
-
-### Page header
-
-Header used to keep track of records in the page. 
-> [!info] Header may contain fields: 
-> - Number of records in the page
-> - Pointer to segment of free space in the page
-> - Bitmap indicating which parts of the page are in use
+See [[Page]]
 ## Record
 
-### Fixed Length Records
+See [[Record]]
 
-We can store fixed length records in two ways:
-- **packed**: no gaps between records, record ID is location in page
-- **unpacked**: allow gaps between records. The unpacked page use a bitmap to keep track of where the gaps are.
-![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-153104.png-default)
-
-### Variable Length Records: Slotted Pages
-
-Move **header to end of a page** to allow it to grow. It also stores number of slots and pointer to free space.
-
-![](https://cdn.hcplantern.cn/img/2023/09/03/20230903-153208.png-default)
-
-As the pic shows (left), deletion with unpacked layout could cause fragmentation.

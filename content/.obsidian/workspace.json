@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdc531f6e611b85d",
+            "id": "cbbbfc30b58dd723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writings/index.md",
+                "file": "study/CS186/Storage of DBMS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4297dcf1d9d23e15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20da859a5e44c000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/Buffer Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85d39c350b7a33a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "callout",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writings/index.md"
+                "file": "study/CS186/Buffer Management.md"
               }
             }
           },
@@ -139,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writings/index.md",
+                "file": "study/CS186/Buffer Management.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writings/index.md",
+                "file": "study/CS186/Buffer Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -181,35 +221,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bdc531f6e611b85d",
+  "active": "20da859a5e44c000",
   "lastOpenFiles": [
-    "templates/default.md",
+    "study/CS186/B+ Tree.md",
+    "study/CS186/Architecture of DBMS.md",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/Buffer Management.md",
+    "study/CS186/_index.md",
+    "study/_index.md",
+    "study/CS186/Page.md",
+    "study/CS186/Record.md",
+    "study/CS186/Storage of DBMS.md",
+    "docs/features/callouts.md",
+    "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
-    "excerpt/index.md",
-    "study/index.md",
+    "private/面试/面经/6-MySQL.md",
     "writings/index.md",
+    "index.md",
+    "templates/default.md",
+    "excerpt/index.md",
     "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
     "study/Static-Analysis/index.md",
-    "study/CS186/index.md",
-    "study/CS186/Relationship Between Database Page and OS Page.md",
-    "docs/features/callouts.md",
-    "study/CS186/B+ Tree.md",
-    "study/CS186/Architecture of DBMS.md",
-    "study/CS186/Storage of DBMS.md",
     "cards/B+ Tree.md",
     "cards/Relationship Between Database Page and OS Page.md",
     "cards/Storage of DBMS.md",
     "cards/Architecture of DBMS.md",
-    "index.md",
     "study/CS186",
     "docs/features/syntax highlighting.md",
-    "docs/features/OxHugo compatibility.md",
-    "docs/features/folder and tag listings.md",
-    "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
-    "docs/features/upcoming features.md",
-    "docs/features/wikilinks.md",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
     "docs/images/dns records.png",
