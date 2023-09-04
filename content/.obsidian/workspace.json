@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Storage of DBMS.md",
+                "file": "study/CS186/B+ Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "20da859a5e44c000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/Buffer Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "85d39c350b7a33a8",
             "type": "leaf",
             "state": {
@@ -59,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "一个数据表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Buffer Management.md"
+                "file": "study/CS186/B+ Tree.md"
               }
             }
           },
@@ -179,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Buffer Management.md",
+                "file": "study/CS186/B+ Tree.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Buffer Management.md",
+                "file": "study/CS186/B+ Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,18 +208,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20da859a5e44c000",
+  "active": "cbbbfc30b58dd723",
   "lastOpenFiles": [
+    "study/CS186/Storage of DBMS.md",
+    "study/CS186/_index.md",
+    "docs/features/callouts.md",
+    "study/CS186/Buffer Management.md",
     "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
-    "study/CS186/Buffer Management.md",
-    "study/CS186/_index.md",
     "study/_index.md",
     "study/CS186/Page.md",
     "study/CS186/Record.md",
-    "study/CS186/Storage of DBMS.md",
-    "docs/features/callouts.md",
     "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",

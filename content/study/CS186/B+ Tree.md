@@ -72,7 +72,7 @@ There are three ways of storing records in leaves.
 
 ![](https://cdn.hcplantern.cn/img/2023/09/04/20230904-191955.png-default)
 
-**一个数据表只有一个聚集索引. **
+**一个数据表只有一个聚集索引. ** 
 
 ## MySQL 实现
 
