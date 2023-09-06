@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "hcplantern.top",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
