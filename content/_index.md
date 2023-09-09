@@ -1,7 +1,6 @@
-
 ---
 id: 20230830214437
-title: Welcome to hcplantern.top
+title: 🌱Welcome to hcplantern.top
 date: 2023-08-30 21:44
 draft: false
 tags: 

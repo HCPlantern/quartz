@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/健身房健身.md",
-                "mode": "source",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "一个数据表",
+                "query": "tag:css,",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/健身房健身.md"
+                "file": "excerpt/An Interactive Guide to Flexbox.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/健身房健身.md",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/健身房健身.md",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,31 +185,31 @@
   "active": "cbbbfc30b58dd723",
   "lastOpenFiles": [
     "excerpt/家庭健身.md",
-    "study/CS186/Storage of DBMS.md",
-    "study/_index.md",
-    "index.md",
-    "writings/_index.md",
-    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
-    "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
-    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
-    "docs/_index.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "excerpt/健身房健身.md",
     "excerpt/_index.md",
-    "study/Static-Analysis/_index.md",
-    "study/CS186/_index.md",
-    "study/CS186/B+ Tree.md",
-    "docs/features/callouts.md",
-    "study/CS186/Buffer Management.md",
-    "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
     "study/CS186/Page.md",
-    "study/CS186/Record.md",
-    "private/面试/JavaNotesForInterview-master/4.MySQL相关笔记.md",
-    "excerpt/健身房健身.md",
-    "private/面试/面经/6-MySQL.md",
-    "templates/default.md",
-    "cards/B+ Tree.md",
-    "cards/Relationship Between Database Page and OS Page.md",
-    "cards/Storage of DBMS.md",
+    "study/CS186/B+ Tree.md",
+    "study/CS186/Architecture of DBMS.md",
+    "study/CS186/_index.md",
+    "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
+    "study/Static-Analysis/09-Pointer Analysis Foundations I.md",
+    "study/Static-Analysis/02-Intermediate Representation.md",
+    "study/Static-Analysis/07-Interprocedural Analysis.md",
+    "study/Static-Analysis/01-Introduction.md",
+    "study/Static-Analysis/_index.md",
+    "study/_index.md",
+    "_index.md",
+    "writings/_index.md",
+    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
+    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
+    "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
+    "docs/_index.md",
+    "study/CS186/Storage of DBMS.md",
+    "index.md",
+    "docs/features/callouts.md",
+    "study/CS186/Buffer Management.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
