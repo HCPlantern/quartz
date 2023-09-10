@@ -16,3 +16,5 @@ Pure CSS with Flexbox example:
 
 ![](https://r2.hcplantern.top/2023/09/10/20230910-114930.webm)
 
+![](https://r2.hcplantern.top/2023/09/10/20230910-115009.mp4)
+
