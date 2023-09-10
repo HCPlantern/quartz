@@ -99,7 +99,7 @@ There's no `justify-self` because you cannot adjust one single element across th
 
 ## flex-shrink
 
-==What if our children are _too big_ for their container? ==
+==What if our children are _too big_ for their container?==
 
 ![](https://r2.hcplantern.top/2023/09/10/20230910-211858.gif)
 
