@@ -21,7 +21,7 @@ Given the limited memory space available, it's imperative that we cannot retain 
 # Buffer Pool
 
 - Memory is partitioned into frames so that buffer pool is built. 
-- A buffer frame can hold exactly a [[page]]. 
+- A buffer frame can hold exactly one [[page]]. 
 ## Metadata Table
 
 - Buffer Pool has additional space for a  metadata table
@@ -37,7 +37,7 @@ Given the limited memory space available, it's imperative that we cannot retain 
 
 Basically same as OS memory management. 
 
-## Replacement Policy
+# Replacement Policy
 
 - LRU Replacement: evict the least recently used unpinned page
 	- need a **last used column** in the metadata table. update the column with time at which pin count is decremented.
