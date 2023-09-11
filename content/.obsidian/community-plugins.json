@@ -11,5 +11,8 @@
   "editing-toolbar",
   "obsidian-shellcommands",
   "obsidian-style-settings",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-vim-im-switch-plugin",
+  "obsidian-vimrc-support",
+  "quick-latex"
 ]
