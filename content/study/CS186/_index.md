@@ -19,6 +19,7 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 - [[Storage of DBMS]]: Table, File, [[Page]] and [[Record]]
 - [[B+ Tree]]
 - [[Buffer Management]]
+- [[Relational Algebra]]
 
 # Project
 
