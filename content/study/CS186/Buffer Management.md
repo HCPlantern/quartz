@@ -28,7 +28,7 @@ Given the limited memory space available, it's imperative that we cannot retain 
 
 ![](https://pic2.zhimg.com/v2-1238fef5cecbff72636b49aadc80031d_b.jpg)
 
-- Frame ID: uniquely associated with a memroy address
+- Frame ID: uniquely associated with a memory address
 - [[Page]] ID: which [[page]] a frame currently contains
 - Dirty Bit: whether or not a [[page]] has been modified
 - Pin Count: number of requestors currently using this [[page]]
