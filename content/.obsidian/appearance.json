@@ -4,7 +4,7 @@
   "cssTheme": "AnuPpuccin",
   "interfaceFontFamily": "微软雅黑",
   "textFontFamily": "微软雅黑",
-  "monospaceFontFamily": "Hack,苹方",
+  "monospaceFontFamily": "Hack,Hack Nerd Font Mono,苹方",
   "enabledCssSnippets": [
     "yaozhuwa@CSS"
   ],
