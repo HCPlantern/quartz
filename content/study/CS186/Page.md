@@ -3,6 +3,7 @@ id: 20230904180848
 title: Page
 aliases:
   - page
+  - pages
 date: 2023-09-04 18:08
 draft: false
 tags:
