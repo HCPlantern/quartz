@@ -105,7 +105,7 @@ There's no `justify-self` because you cannot adjust one single element across th
 
 Both items shrink, **but they shrink proportionally.** The first child is always 2x the width of the second child.
 
-`flex-shrink` tells us how elements shrink when container is not enough big. To prevent elements to scale down, set ` flex-shrink ` to 0. 
+`flex-shrink` tells us how elements shrink when container is not enough big. To prevent elements from scaling down, set ` flex-shrink ` to 0. 
 
 # Minimum Size
 
