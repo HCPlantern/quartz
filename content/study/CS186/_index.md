@@ -20,6 +20,7 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 - [[B+ Tree]]
 - [[Buffer Management]]
 - [[Relational Algebra]]
+- [[External Sort]]: [[Tow Way External Merge Sort]], [[Full External Sort]]
 
 # Project
 

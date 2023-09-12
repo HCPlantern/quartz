@@ -1,24 +1,15 @@
 set number
-
 set number relativenumber
-
 set showmatch
-
 set tabstop=4
-
 set shiftwidth=4
-
 set autoindent
-
 set arround
-
 set surround
 
 nnoremap Y "+y
 vnoremap Y "+y
-
 nnoremap P "+p
-
 nnoremap U <C-r>
 
 set wrap

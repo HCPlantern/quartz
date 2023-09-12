@@ -1,7 +1,7 @@
 ---
 id: {{date:YYYYMMDD}}{{time:HHmmss}}
 title: {{title}}
-alias: 
+aliases: 
 date: {{date:YYYY-MM-DD}} {{time:HH:mm}}
 draft: false
 tags: 

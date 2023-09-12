@@ -23,7 +23,7 @@ It's purposes are:
 - Load pages from disk to memory
 - Save pages back to disk & ensuring writes
 
-## Buffer Management
+## [[Buffer Management]]
 
 Higher levels of database only operate in memory.
 ## Files and Index Management

@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4b97a3b90d862b",
+        "id": "c45cf565bbbaebe6",
         "type": "tabs",
         "children": [
           {
-            "id": "cbbbfc30b58dd723",
+            "id": "74090e4bf31d450a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/An Interactive Guide to Flexbox.md",
-                "mode": "preview",
+                "file": "study/CS186/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a08805d784676b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec7b14d7a3acb03a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b22bc2e1ac44b9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/Architecture of DBMS.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upgrading",
+                "query": "[\"source\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +138,7 @@
       {
         "id": "c6a6bd279b70c79b",
         "type": "tabs",
-        "dimension": 68.17155756207674,
+        "dimension": 53.501094091903724,
         "children": [
           {
             "id": "30b73e2c88a04583",
@@ -106,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/An Interactive Guide to Flexbox.md"
+                "file": "study/CS186/Architecture of DBMS.md"
               }
             }
           },
@@ -119,19 +159,30 @@
             }
           },
           {
-            "id": "1916961ea3eee923",
+            "id": "38d75794ec90acb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "1d17bf30ea349347",
             "type": "leaf",
             "state": {
               "type": "metatable-sidebar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ea076484d702361a",
         "type": "tabs",
-        "dimension": 31.82844243792325,
+        "dimension": 46.498905908096276,
         "children": [
           {
             "id": "3ece0c49d21d30e3",
@@ -139,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/An Interactive Guide to Flexbox.md",
+                "file": "study/CS186/Architecture of DBMS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,13 +207,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/An Interactive Guide to Flexbox.md",
+                "file": "study/CS186/Architecture of DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,45 +222,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
       "obsidian-metatable:Metatable": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbbbfc30b58dd723",
+  "active": "6b22bc2e1ac44b9e",
   "lastOpenFiles": [
-    "docs/upgrading.md",
-    "excerpt/An Interactive Guide to Flexbox.md",
-    "excerpt/家庭健身.md",
-    "excerpt/健身房健身.md",
-    "excerpt/_index.md",
-    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/External Sort.md",
+    "study/CS186/Full External Sort.md",
+    "study/CS186/_index.md",
+    "study/CS186/Tow Way External Merge Sort.md",
+    "study/CS186/Buffer Management.md",
+    "study/CS186/Relational Algebra.md",
+    "study/CS186/Record.md",
     "study/CS186/Page.md",
     "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
-    "study/CS186/_index.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "excerpt/健身房健身.md",
+    "excerpt/家庭健身.md",
+    "templates/default.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
-    "study/Static-Analysis/09-Pointer Analysis Foundations I.md",
-    "study/Static-Analysis/02-Intermediate Representation.md",
-    "study/Static-Analysis/07-Interprocedural Analysis.md",
+    "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
     "study/Static-Analysis/01-Introduction.md",
-    "study/Static-Analysis/_index.md",
-    "study/_index.md",
-    "_index.md",
     "writings/_index.md",
-    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
-    "writings/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
-    "writings/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
-    "docs/_index.md",
+    "study/Static-Analysis/_index.md",
+    "study/Static-Analysis/02-Intermediate Representation.md",
+    "_index.md",
+    "templates/default-obsidian-template.md",
+    "study/_index.md",
+    "cards",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
     "study/CS186/Storage of DBMS.md",
-    "index.md",
-    "docs/features/callouts.md",
+    "study/CS186/未命名.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
@@ -221,7 +274,6 @@
     "study",
     "private/面试/LeetCode",
     "private/面试/面经",
-    "private/面试/Java并发",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
