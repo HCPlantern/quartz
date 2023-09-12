@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c45cf565bbbaebe6",
+        "id": "6918c77413f55f88",
         "type": "tabs",
         "children": [
           {
-            "id": "74090e4bf31d450a",
+            "id": "77fb6e93ba70fb54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/_index.md",
-                "mode": "source",
+                "file": "study/CS186/Tow Way External Merge Sort.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65a08805d784676b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/_index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec7b14d7a3acb03a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/_index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b22bc2e1ac44b9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/Architecture of DBMS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +98,7 @@
       {
         "id": "c6a6bd279b70c79b",
         "type": "tabs",
-        "dimension": 53.501094091903724,
+        "dimension": 40.91903719912472,
         "children": [
           {
             "id": "30b73e2c88a04583",
@@ -146,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Architecture of DBMS.md"
+                "file": "study/CS186/Tow Way External Merge Sort.md"
               }
             }
           },
@@ -176,13 +136,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ea076484d702361a",
         "type": "tabs",
-        "dimension": 46.498905908096276,
+        "dimension": 59.08096280087527,
         "children": [
           {
             "id": "3ece0c49d21d30e3",
@@ -190,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Architecture of DBMS.md",
+                "file": "study/CS186/Tow Way External Merge Sort.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Architecture of DBMS.md",
+                "file": "study/CS186/Tow Way External Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -218,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,18 +192,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ffe25ff529cd112",
+  "active": "77fb6e93ba70fb54",
   "lastOpenFiles": [
     "study/CS186/External Sort.md",
     "study/CS186/Full External Sort.md",
-    "study/CS186/_index.md",
     "study/CS186/Tow Way External Merge Sort.md",
-    "study/CS186/Buffer Management.md",
-    "study/CS186/Relational Algebra.md",
-    "study/CS186/Record.md",
+    "study/CS186/_index.md",
     "study/CS186/Page.md",
-    "study/CS186/B+ Tree.md",
+    "study/CS186/Record.md",
+    "study/CS186/Relational Algebra.md",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/Storage of DBMS.md",
+    "study/CS186/Buffer Management.md",
     "study/CS186/Architecture of DBMS.md",
+    "study/CS186/B+ Tree.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "excerpt/健身房健身.md",
     "excerpt/家庭健身.md",
@@ -259,8 +220,6 @@
     "templates/default-obsidian-template.md",
     "study/_index.md",
     "cards",
-    "study/CS186/Relationship Between Database Page and OS Page.md",
-    "study/CS186/Storage of DBMS.md",
     "study/CS186/未命名.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
