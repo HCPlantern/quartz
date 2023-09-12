@@ -16,12 +16,12 @@ tags:
 
 ## Disk Space Management
 
-Disk Space Manager manages reads and writes page to physical disk/files. Higher levels call upon this layer to read/write a page and allocate/de-allocate logical pages.
+Disk Space Manager manages reads and writes [[page]] to physical disk/files. Higher levels call upon this layer to read/write a [[page]] and allocate/de-allocate logical [[Page|pages]].
 
 It's purposes are: 
-- Map pages to locations on disk
-- Load pages from disk to memory
-- Save pages back to disk & ensuring writes
+- Map [[Page|pages]] to locations on disk
+- Load [[Page|pages]] from disk to memory
+- Save [[Page|pages]] back to disk & ensuring writes
 
 ## [[Buffer Management]]
 
