@@ -143,7 +143,7 @@ When elements wraps, we can use it to _align the rows themselves._
 
 ![](https://r2.hcplantern.top/2023/09/10/20230910-213221.gif)
 
-> [!tldr] Summary
+> [!summary] Summary
 > - `flex-wrap: wrap` gives us two rows of stuff.
 > - Within each row, `align-items` lets us slide each individual child up or down
 > - Zooming out, however, we have these two rows within a single Flex context! The cross axis will now intersect _two_ rows, not one. And so, we can't move the rows individually, we need to distribute them _as a group_.
