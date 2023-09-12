@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Tow Way External Merge Sort.md",
-                "mode": "preview",
+                "file": "study/CS186/External Hash.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Tow Way External Merge Sort.md"
+                "file": "study/CS186/External Hash.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Tow Way External Merge Sort.md",
+                "file": "study/CS186/External Hash.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Tow Way External Merge Sort.md",
+                "file": "study/CS186/External Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,17 +194,18 @@
   },
   "active": "77fb6e93ba70fb54",
   "lastOpenFiles": [
-    "study/CS186/External Sort.md",
-    "study/CS186/Full External Sort.md",
-    "study/CS186/Tow Way External Merge Sort.md",
-    "study/CS186/_index.md",
     "study/CS186/Page.md",
-    "study/CS186/Record.md",
+    "study/CS186/Full External Sort.md",
     "study/CS186/Relational Algebra.md",
-    "study/CS186/Relationship Between Database Page and OS Page.md",
-    "study/CS186/Storage of DBMS.md",
+    "study/CS186/Record.md",
+    "study/CS186/External Sort.md",
+    "study/CS186/External Hash.md",
+    "study/CS186/_index.md",
     "study/CS186/Buffer Management.md",
     "study/CS186/Architecture of DBMS.md",
+    "study/CS186/Tow Way External Merge Sort.md",
+    "study/CS186/Relationship Between Database Page and OS Page.md",
+    "study/CS186/Storage of DBMS.md",
     "study/CS186/B+ Tree.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "excerpt/健身房健身.md",
@@ -220,7 +221,6 @@
     "templates/default-obsidian-template.md",
     "study/_index.md",
     "cards",
-    "study/CS186/未命名.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
