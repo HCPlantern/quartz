@@ -17,5 +17,5 @@ External Sort refers to the process of sorting a large amount of data on disk in
 - When measuring I/Os, we **ignore cache hit**. 
 
 See: 
--  [[Tow Way External Merge Sort]]
+- [[Tow Way External Merge Sort]]
 - [[Full External Sort]]

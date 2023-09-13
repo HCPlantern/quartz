@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6918c77413f55f88",
+        "id": "fe6bb087a1860eae",
         "type": "tabs",
         "children": [
           {
-            "id": "77fb6e93ba70fb54",
+            "id": "1e8ee3da6b439b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "study/CS186/External Hash.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 257.49999618530273
   },
   "right": {
     "id": "974503b6b9300c30",
@@ -192,24 +192,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77fb6e93ba70fb54",
+  "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
-    "study/CS186/Page.md",
+    "study/CS186/Architecture of DBMS.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "study/Static-Analysis/08-Pointer Analysis.md",
+    "excerpt/健身房健身.md",
+    "study/CS186/External Hash.md",
+    "excerpt/家庭健身.md",
+    "study/CS186/External Sort.md",
     "study/CS186/Full External Sort.md",
+    "study/CS186/_index.md",
+    "study/CS186/Page.md",
     "study/CS186/Relational Algebra.md",
     "study/CS186/Record.md",
-    "study/CS186/External Sort.md",
-    "study/CS186/External Hash.md",
-    "study/CS186/_index.md",
     "study/CS186/Buffer Management.md",
-    "study/CS186/Architecture of DBMS.md",
     "study/CS186/Tow Way External Merge Sort.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
     "study/CS186/Storage of DBMS.md",
     "study/CS186/B+ Tree.md",
-    "excerpt/An Interactive Guide to Flexbox.md",
-    "excerpt/健身房健身.md",
-    "excerpt/家庭健身.md",
     "templates/default.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
     "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
@@ -219,7 +220,6 @@
     "study/Static-Analysis/02-Intermediate Representation.md",
     "_index.md",
     "templates/default-obsidian-template.md",
-    "study/_index.md",
     "cards",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
