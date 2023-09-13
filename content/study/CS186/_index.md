@@ -13,7 +13,7 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 - [Home - CS W186](https://cs186berkeley.net/sp21/)
 - [Introduction to Database Systems | edX](https://learning.edge.edx.org/course/course-v1:BerkeleyX+CS186+2018_SP/home)
 
-# Content
+# 🗒️Content
 
 - [[Architecture of DBMS]]
 - [[Storage of DBMS]]: Table, File, [[Page]] and [[Record]]
@@ -23,10 +23,8 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 - [[External Sort]]: [[Tow Way External Merge Sort]], [[Full External Sort]]
 - [[External Hash]]
 
-# Project
+# 🧑‍💻️Project
 
 // todo
 
-# List of Items
-
-Below are all of the notes. 
+# 📁List of Items
