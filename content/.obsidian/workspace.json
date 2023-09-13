@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/External Hash.md",
-                "mode": "preview",
+                "file": "study/CS186/_index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/External Hash.md"
+                "file": "study/CS186/_index.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/External Hash.md",
+                "file": "study/CS186/_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/External Hash.md",
+                "file": "study/CS186/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,17 +194,17 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
+    "study/CS186/Relational Algebra.md",
+    "study/CS186/External Hash.md",
     "study/CS186/Architecture of DBMS.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "study/Static-Analysis/08-Pointer Analysis.md",
     "excerpt/健身房健身.md",
-    "study/CS186/External Hash.md",
     "excerpt/家庭健身.md",
     "study/CS186/External Sort.md",
     "study/CS186/Full External Sort.md",
     "study/CS186/_index.md",
     "study/CS186/Page.md",
-    "study/CS186/Relational Algebra.md",
     "study/CS186/Record.md",
     "study/CS186/Buffer Management.md",
     "study/CS186/Tow Way External Merge Sort.md",

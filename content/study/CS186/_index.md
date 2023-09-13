@@ -26,3 +26,7 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 # Project
 
 // todo
+
+# List of Items
+
+Below are all of the notes. 
