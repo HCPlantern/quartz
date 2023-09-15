@@ -1,6 +1,6 @@
 ---
 id: 20230903162910
-title: Study
+title: 🏫Study
 aliases: []
 date: 2023-09-03 16:29
 draft: false
