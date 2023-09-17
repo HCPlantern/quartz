@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md"
+                "file": "_index.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,12 +194,14 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
-    "excerpt/fitness/_index.md",
-    "excerpt/_index.md",
-    "excerpt/fitness/家庭健身.md",
+    "templates/default-template.md",
     "excerpt/fitness/肘关节疼痛.md",
-    "excerpt/fitness/健身房健身.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "excerpt/_index.md",
     "_index.md",
+    "excerpt/fitness/家庭健身.md",
+    "excerpt/fitness/_index.md",
+    "excerpt/fitness/健身房健身.md",
     "2023-09-17.md",
     "study/CS186/_index.md",
     "excerpt/fitness",
@@ -207,7 +209,6 @@
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relational Algebra.md",
     "study/CS186/External Hash.md",
-    "excerpt/An Interactive Guide to Flexbox.md",
     "study/Static-Analysis/08-Pointer Analysis.md",
     "study/CS186/External Sort.md",
     "study/CS186/Full External Sort.md",
@@ -217,7 +218,6 @@
     "study/CS186/Tow Way External Merge Sort.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
     "study/CS186/Storage of DBMS.md",
-    "templates/default.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
     "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
     "study/Static-Analysis/01-Introduction.md",
