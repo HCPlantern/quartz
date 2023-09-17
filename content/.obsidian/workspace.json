@@ -70,14 +70,6 @@
             }
           },
           {
-            "id": "62caa091d07f0b09",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "7edb370dbcbed27e",
             "type": "leaf",
             "state": {
@@ -127,16 +119,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "1d17bf30ea349347",
-            "type": "leaf",
-            "state": {
-              "type": "metatable-sidebar-view",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ea076484d702361a",
@@ -192,13 +177,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e8ee3da6b439b06",
+  "active": "38d75794ec90acb2",
   "lastOpenFiles": [
+    "_index.md",
     "templates/default-template.md",
     "excerpt/fitness/肘关节疼痛.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "excerpt/_index.md",
-    "_index.md",
     "excerpt/fitness/家庭健身.md",
     "excerpt/fitness/_index.md",
     "excerpt/fitness/健身房健身.md",
