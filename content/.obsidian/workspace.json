@@ -16,7 +16,7 @@
                 "file": "study/CS186/_index.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -194,8 +194,9 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
-    "study/CS186/Architecture of DBMS.md",
+    "study/CS186/B+ Tree.md",
     "study/CS186/_index.md",
+    "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relational Algebra.md",
     "study/CS186/External Hash.md",
     "excerpt/An Interactive Guide to Flexbox.md",
@@ -210,7 +211,6 @@
     "study/CS186/Tow Way External Merge Sort.md",
     "study/CS186/Relationship Between Database Page and OS Page.md",
     "study/CS186/Storage of DBMS.md",
-    "study/CS186/B+ Tree.md",
     "templates/default.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
     "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",

@@ -30,7 +30,7 @@
       "shells": {
         "win32": "PowerShell.exe"
       },
-      "alias": "",
+      "alias": "sync",
       "icon": "cloud",
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -58,8 +58,8 @@
           "enabled": true
         },
         "every-n-seconds": {
-          "enabled": false,
-          "seconds": 60
+          "enabled": true,
+          "seconds": 300
         }
       },
       "command_palette_availability": "enabled",
