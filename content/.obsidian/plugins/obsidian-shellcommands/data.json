@@ -25,11 +25,13 @@
     {
       "id": "ed3jyzi92z",
       "platform_specific_commands": {
-        "default": "npx quartz sync"
+        "default": "git commit -am \"Updated: $(Get-Date)\"; git push"
       },
-      "shells": {},
+      "shells": {
+        "win32": "PowerShell.exe"
+      },
       "alias": "",
-      "icon": null,
+      "icon": "cloud",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -37,7 +39,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "notification",
           "convert_ansi_code": true
         },
         "stderr": {
