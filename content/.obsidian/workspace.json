@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "excerpt/fitness/肘关节疼痛.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/_index.md"
+                "file": "excerpt/fitness/肘关节疼痛.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "excerpt/fitness/肘关节疼痛.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "excerpt/fitness/肘关节疼痛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,15 +194,21 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
-    "study/CS186/B+ Tree.md",
+    "excerpt/fitness/家庭健身.md",
+    "excerpt/fitness/肘关节疼痛.md",
+    "excerpt/fitness/健身房健身.md",
+    "excerpt/fitness/_index.md",
+    "_index.md",
+    "excerpt/_index.md",
+    "2023-09-17.md",
     "study/CS186/_index.md",
+    "excerpt/fitness",
+    "study/CS186/B+ Tree.md",
     "study/CS186/Architecture of DBMS.md",
     "study/CS186/Relational Algebra.md",
     "study/CS186/External Hash.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "study/Static-Analysis/08-Pointer Analysis.md",
-    "excerpt/健身房健身.md",
-    "excerpt/家庭健身.md",
     "study/CS186/External Sort.md",
     "study/CS186/Full External Sort.md",
     "study/CS186/Page.md",
@@ -215,11 +221,6 @@
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
     "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
     "study/Static-Analysis/01-Introduction.md",
-    "writings/_index.md",
-    "study/Static-Analysis/_index.md",
-    "study/Static-Analysis/02-Intermediate Representation.md",
-    "_index.md",
-    "templates/default-obsidian-template.md",
     "cards",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
@@ -232,7 +233,6 @@
     "docs",
     "study",
     "private/面试/LeetCode",
-    "private/面试/面经",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
