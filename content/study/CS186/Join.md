@@ -25,7 +25,7 @@ $$
 \begin{align*} 
 \text{for each record} \ r_i \ \text{in R:} \\
 \text{for each record} \ s_{j}\ \text{in S:} \\
-\text{if} \ \theta(r_{i},s_{j} ): \text{yield} \ <r_{i},s_{j}> \\
+\text{if} \ \theta(r_{i},s_{j} ):& \text{yield} \ <r_{i},s_{j}> \\
 \end{align*} 
 $$
 
@@ -39,7 +39,7 @@ $$
 \text{for each page }p_{s} \text{ in } S: \\
 \text{for each record } r_{i} \text{ in } p_{r}: \\
 \text{for each record } s_{j} \text{ in } p_{s}: \\
-\text{if } \theta (r_{i}, s_{j}): \text{yield } <r_{i}, s_{j}>
+\text{if } \theta (r_{i}, s_{j}):& \text{yield } <r_{i}, s_{j}>
 \end{align*}
 $$
 COST = $[R] + \boldsymbol{[R]}[S]$
@@ -47,4 +47,13 @@ COST = $[R] + \boldsymbol{[R]}[S]$
 # Block Nested Loop Join
 
 - We can fully utilize our $B$ buffer pages rather than 3 pages used in [[Join#Page Nested Loop Join|PNLJ]] -- one for $R$, one for $S$ and one for the output buffer. 
-- We read $B-2$ pages of $R$ at a time and iterate through pages of $S$.
+- We want to reserve as many pages as possible, that is, read $B-2$ pages of $R$ (this is a chunk of R) at a time and iterate through pages of $S$.
+
+$$
+\begin{align*}
+\text{for each block of } B-2 \text{ pages } B_{r} \text{ in } R:\\
+\text{for each page } p_{s} \text{ in } S:\\
+\text{for each record } r_{i} \text{ in } B_r:\\
+\text{for each record } s_{j} \text{ in } p_s:\\
+\text{if } \theta(r_{i}, s_{j}):& \text{yield } <r_{i}, s_{j}> 
+\end{align*}
