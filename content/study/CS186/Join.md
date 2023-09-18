@@ -78,3 +78,5 @@ COST = $[R] + |R|\times \text{(cost to look up matching records in } S)$
 
 # Hash Join
 
+
+
