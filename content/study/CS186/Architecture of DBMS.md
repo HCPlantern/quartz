@@ -32,7 +32,7 @@ See: [[B+ Tree]]
 
 # [[Relational Algebra|Relational Operators]]
 
-See 
+See: [[Relational Algebra]]
 
 # Query Parsing and Optimization
 
