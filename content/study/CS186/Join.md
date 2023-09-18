@@ -70,8 +70,11 @@ COST= $[R] + \lceil{\frac{[R]}{B-2}\rceil [S]}$
 $$
 \begin{align*}
 \text{for each record } r_{i} \text{ in } R:\\
-	\text{for each record } s_{j} \text{ in } S \text{ where } \theta(r_{i}, s_{j}) \text{==true}:\text{yield } <r_{i}, s_{j}>
+	\text{for each record } s_{j} \text{ in } S \text{ where } \theta(r_{i}, s_{j}) \text{==true}:&\text{yield } <r_{i}, s_{j}>
 \end{align*}
-$$$
+$$
 
-COST = $[R] + |R|\ast$
+COST = $[R] + |R|\ast$(cost to look up matching records in $S$)
+
+# Hash Join
+
