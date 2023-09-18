@@ -78,12 +78,11 @@ COST = $[R] + |R|\times \text{(cost to look up matching records in } S)$
 
 # Hash Join
 
-![Uploading file...1vuxv]()
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-18_16-29-39.png)
 
-
-- We try to split R and S into partitions. Each partition has $R_{i}$ and $S_{i}$ (i.e. partition i of $R$ and partition i of $S$) and either $R_{i}$ or $S_{i} \leq B-2$ pages.
+- We try to split R and S into partitions. Each partition has $R_{i}$ and $S_{i}$ (i.e. partition i of $R$ and partition i of $S$) and make sure either $R_{i}$ or $S_{i} \leq B-2$ pages. If not, recursively do partition. 
 	- Make sure records with same hash value are in the same partition.
-- Load the *smaller* partition into memory and build an in-memory hash table and perform a Naive Hash Join with the larger partition in the pair. 
+- Load the *smaller* partition into memory and build an in-memory hash tablb. Perform a Naive Hash Join with the larger partition in the pair. 
 
 
 # Sort-Merge Join
