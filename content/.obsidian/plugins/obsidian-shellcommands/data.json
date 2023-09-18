@@ -4,7 +4,7 @@
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
-  "working_directory": "",
+  "working_directory": "..",
   "default_shells": {},
   "environment_variable_path_augmentations": {},
   "error_message_duration": 20,
@@ -25,11 +25,13 @@
     {
       "id": "ed3jyzi92z",
       "platform_specific_commands": {
-        "default": "cd .. && npx quartz sync"
+        "default": "git add --all; git commit -am \"Updated: $(Get-Date)\"; git push"
       },
-      "shells": {},
-      "alias": "",
-      "icon": null,
+      "shells": {
+        "win32": "PowerShell.exe"
+      },
+      "alias": "sync",
+      "icon": "cloud",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "input_contents": {
@@ -37,7 +39,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "notification",
           "convert_ansi_code": true
         },
         "stderr": {
@@ -54,6 +56,10 @@
       "events": {
         "on-quit": {
           "enabled": true
+        },
+        "every-n-seconds": {
+          "enabled": true,
+          "seconds": 300
         }
       },
       "command_palette_availability": "enabled",
