@@ -31,3 +31,10 @@ Higher levels of database only operate in memory.
 See: [[B+ Tree]]
 
 # [[Relational Algebra|Relational Operators]]
+
+See 
+
+# Query Parsing and Optimization
+
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-18_17-00-03.png)
+
