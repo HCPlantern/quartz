@@ -43,3 +43,7 @@ $$
 \end{align*}
 $$
 COST = $[R] + \boldsymbol{[R]}[S]$
+
+# Block Nested Loop Join
+
+- We can fully utilize
