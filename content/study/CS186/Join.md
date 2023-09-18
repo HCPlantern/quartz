@@ -46,4 +46,5 @@ COST = $[R] + \boldsymbol{[R]}[S]$
 
 # Block Nested Loop Join
 
-- We can fully utilize
+- We can fully utilize our $B$ buffer pages rather than 3 pages used in [[Join#Page Nested Loop Join|PNLJ]] -- one for $R$, one for $S$ and one for the output buffer. 
+- We read $B-2$ pages of $R$ at a time and iterate through pages of $S$.
