@@ -82,3 +82,8 @@ COST = $[R] + |R|\times \text{(cost to look up matching records in } S)$
 	- Make sure records with same hash value are in the same partition.
 - Load the *smaller* partition into memory and build an in-memory hash table and perform a Naive Hash Join with the larger partition in the pair. 
 
+
+# Sort-Merge Join
+
+- Sort $R$ and $S$ first and then join. 
+- Then perform
