@@ -63,3 +63,15 @@ $$
 
 COST= $[R] + \lceil{\frac{[R]}{B-2}\rceil [S]}$
 
+# Index Nested Loop Join
+
+- If we have an index on S that is on the field we are joining on, it can be very fast to look up matches of $r_i$ in S.
+
+$$
+\begin{align*}
+\text{for each record } r_{i} \text{ in } R:\\
+	\text{for each record } s_{j} \text{ in } S \text{ where } \theta(r_{i}, s_{j}) \text{==true}:\text{yield } <r_{i}, s_{j}>
+\end{align*}
+$$$
+
+COST = $[R] + |R|\ast$
