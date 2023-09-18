@@ -42,11 +42,12 @@ $$
 \text{if } \theta (r_{i}, s_{j}):& \text{yield } <r_{i}, s_{j}>
 \end{align*}
 $$
+
 COST = $[R] + \boldsymbol{[R]}[S]$
 
 # Block Nested Loop Join
 
-- We can fully utilize our $B$ buffer pages rather than 3 pages used in [[Join#Page Nested Loop Join|PNLJ]] -- one for $R$, one for $S$ and one for the output buffer. 
+- We can fully utilize our $B$ buffer pages rather than 3 pages used in [[Join#Page Nested Loop Join|PNLJ]] where one for $R$, one for $S$ and one for the output buffer. 
 - We want to reserve as many pages as possible, that is, read $B-2$ pages of $R$ (this is a chunk of R) at a time and iterate through pages of $S$.
 
 $$
@@ -57,3 +58,8 @@ $$
 \text{for each record } s_{j} \text{ in } p_s:\\
 \text{if } \theta(r_{i}, s_{j}):& \text{yield } <r_{i}, s_{j}> 
 \end{align*}
+$$
+
+
+COST= $[R] + \lceil{\frac{[R]}{B-2}\rceil [S]}$
+
