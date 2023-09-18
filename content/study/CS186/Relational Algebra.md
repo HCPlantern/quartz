@@ -7,6 +7,9 @@ draft: false
 tags:
   - database
 ---
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-18_16-48-25.png)
+
+
 # Introduction
 
 - SQL is a **declarative programming language**.

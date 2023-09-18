@@ -29,3 +29,5 @@ Higher levels of database only operate in memory.
 ## Files and Index Management
 
 See: [[B+ Tree]]
+
+# [[Relational Algebra|Relational Operators]]
