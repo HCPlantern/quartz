@@ -82,7 +82,14 @@ COST = $[R] + |R|\times \text{(cost to look up matching records in } S)$
 
 - Partitioning phase: We try to split R and S into partitions. Each partition has $R_{i}$ and $S_{i}$ (i.e. partition i of $R$ and partition i of $S$) and make sure either $R_{i}$ or $S_{i} \leq B-2$ pages. If not, recursively do partition. 
 	- Make sure records with same hash value are in the same partition.
-- Build & Probe Phase: Load the *smaller* partition into memory and build an in-memory hash tablb. Perform a Naive Hash Join with the larger partition in the pair. 
+- Build & Probe Phase: Load the *smaller* partition into memory and build an in-memory hash table. Perform a Naive Hash Join with the larger partition in the pair. 
+
+I/O COST:
+- First phase: read + write both relations
+	- $2([R] + [S])$ I/Os
+- Second phase: read both relations, forward output
+	- $[R] + [S]$ I/Os
+- Total cost of 2-pass hash join = $3([R] + [S])$
 
 # Sort-Merge Join
 
@@ -95,3 +102,14 @@ COST = $\text{cost to sort } R + \text{ cost to sort } S+ ([R] + [S])$
 
 - You can combine the last sorting phase with the merging phase, provided you have enough room in memory to allocate a page for each run of $[R]$ and for each run of $[S]$.
 - The final merge pass is where you allocate a page for each run of $R$ and each run of S. In this process, you save $2 ∗ ([R] + [S])$ I/Os
+
+# Hash Join vs. Sort-Merge Join
+
+Sorting pros:
+- Goof if input already sorted, or need output sorted
+- Not sensitive to data skew or bad hash functions
+
+Hashing pros:
+- For join: # passes depends on size of smaller relation
+	- E.g. if smaller relation is $<B$, naive/hybrid hashing is great
+- Good if input already hashed, or need output hashed
