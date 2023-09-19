@@ -9,3 +9,12 @@ tags:
 ---
 
 
+# 2 Kinds of Parallelism
+
+## Pipeline
+
+
+
+## Partition
+
+Previously we 
