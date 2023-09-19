@@ -39,4 +39,7 @@ Assume we have multiple machines, how can we partition data into these individua
 
 ## Parallel Scans
 
-
+We can do parallel scans on multiple machines:
+- Simply scan in parallel and merge result as the ouput.
+- $\sigma_{p}$ : If we use range or hash partitioning, we can skip entire sites that have no tuples satisfying $p$.
+- We can build indexes at each partition
