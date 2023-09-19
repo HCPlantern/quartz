@@ -32,5 +32,11 @@ Multiple SQL queries runs in parallel.
 
 ## Data Partition
 
+Assume we have multiple machines, how can we partition data into these individual machines? Introduce several partitioning methods:
+- Range: Good for equijoins, range queries and group-by
+- Hash: Good for equijoins, group-by
+- Round-Robin: Good for spreading load
+
 ## Parallel Scans
+
 
