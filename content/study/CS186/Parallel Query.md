@@ -63,6 +63,9 @@ We can do parallel scans on multiple machines:
 
 ### Naive parallel hash join
 
-- Phase 1: shffle each table across machines (using $h_{n}$)
-- 
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-16-03.png)
 
+- Phase 1: shuffle each table across machines (using $h_{n}$).
+- Phase 2: receivers proceed with naive hashing in a pipeline as probe data streams in.
+
+## Grace Parallel Hash Join
