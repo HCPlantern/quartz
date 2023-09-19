@@ -58,3 +58,11 @@ We can do parallel scans on multiple machines:
 
 - Data partitioned, route the insert to the relevant node;
 - Else, broadcast lookup and collect results. If not exists, insert anywhere.
+
+## Hash Join
+
+### Naive parallel hash join
+
+- Phase 1: shffle each table across machines (using $h_{n}$)
+- 
+
