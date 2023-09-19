@@ -79,4 +79,11 @@ We can do parallel scans on multiple machines:
 ## Sorting
 
 - Pass 0: shuffle data across machines
-- Pass 1-n: independently run as [[Join#Sort-Merge Join|single-node sorting]]
+- Pass 1-n: independently run as single-node sorting
+
+## Sort-Merge Join
+
+- Pass 0 to n-1: like parallel sorting above, but do it twice: once for each relation with same ranges
+- Pass n: merge join partitions locally on each node
+
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-18-41.png)
