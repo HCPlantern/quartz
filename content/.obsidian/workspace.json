@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Parallel Query.md"
+                "file": "study/CS186/Join.md"
               }
             }
           },
@@ -144,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Parallel Query.md",
+                "file": "study/CS186/Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Parallel Query.md",
+                "file": "study/CS186/Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -187,10 +188,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7f66e9ea1b771e14",
+  "active": "fa14a38031293296",
   "lastOpenFiles": [
-    "study/CS186/Join.md",
     "study/CS186/Parallel Query.md",
+    "study/CS186/Join.md",
     "study/CS186/Query Optimization.md",
     "study/CS186/External Hash.md",
     "study/CS186/_index.md",
