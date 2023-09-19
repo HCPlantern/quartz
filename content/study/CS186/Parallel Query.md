@@ -18,7 +18,11 @@ Multiple SQL queries runs in parallel.
 ## Intra-Query
 
 - Inter-Operator
-	- Pipeline: 
-	- Bushy (Tree): sub-tree uses pipeline
+	- Bushy (Tree): Sub-tree uses pipeline. Between subtrees runs in parallel. 
+ 
+| Pipeline | Bushy (Tree) |
+| -------- | ------------ |
+| ![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_14-32-09.png)         |  ![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_14-32-09.png)            |
+
 - Intra-Operator
 	- 
