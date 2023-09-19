@@ -13,4 +13,12 @@ tags:
 
 ## Inter-Query
 
+Multiple SQL queries runs in parallel.
+
 ## Intra-Query
+
+- Inter-Operator
+	- Pipeline: 
+	- Bushy (Tree): sub-tree uses pipeline
+- Intra-Operator
+	- 
