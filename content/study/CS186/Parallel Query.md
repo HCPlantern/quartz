@@ -56,4 +56,5 @@ We can do parallel scans on multiple machines:
 
 ## Insert a unique key
 
-- Data partitioned
+- Data partitioned, route the insert to the relevant node;
+- Else, broadcast lookup and collect results. If not exists, insert anywhere.
