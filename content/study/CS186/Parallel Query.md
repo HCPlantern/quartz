@@ -27,3 +27,5 @@ Multiple SQL queries runs in parallel.
 
 - Intra-Operator
 	- Single query runs in parallel by partitioning. ![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_14-40-29.png)
+
+# Intra-Operator
