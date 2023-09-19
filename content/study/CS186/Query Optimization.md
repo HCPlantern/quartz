@@ -7,5 +7,6 @@ draft: false
 tags:
   - database
 ---
+Query Optimization is all about finding the **query plan** that minimizes the number of I/Os it takes to execute the query.
 
-
+We cannot know
