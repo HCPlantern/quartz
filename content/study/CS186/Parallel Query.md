@@ -86,4 +86,9 @@ We can do parallel scans on multiple machines:
 - Pass 0 to n-1: like parallel sorting above, but do it twice: once for each relation with same ranges
 - Pass n: merge join partitions locally on each node
 
-![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-18-41.png)
+Note: this picture is a 2-pass sort
+
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-47-04.png)
+
+## Parallel Aggregates
+
