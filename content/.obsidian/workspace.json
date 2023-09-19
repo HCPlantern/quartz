@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fa14a38031293296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/CS186/Join.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -189,11 +176,11 @@
   },
   "active": "7f66e9ea1b771e14",
   "lastOpenFiles": [
-    "study/CS186/Full External Sort.md",
+    "study/CS186/External Hash.md",
     "study/CS186/Parallel Query.md",
+    "study/CS186/Full External Sort.md",
     "study/CS186/Join.md",
     "study/CS186/Query Optimization.md",
-    "study/CS186/External Hash.md",
     "study/CS186/_index.md",
     "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
     "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md",

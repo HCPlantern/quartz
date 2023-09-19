@@ -92,3 +92,9 @@ Note: this picture is a 2-pass sort
 
 ## Parallel Aggregates
 
+Hierarchical aggregation
+
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-56-42.png)
+
+## Parallel GroupBy
+
