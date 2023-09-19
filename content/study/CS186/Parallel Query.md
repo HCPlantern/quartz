@@ -9,13 +9,8 @@ tags:
 ---
 
 
-# 2 Kinds of Parallelism
+# Kinds of Query Parallelism
 
-## Pipeline
+## Inter-Query
 
-As we solve iterator model, we naturally have pipe-lining.
-
-## Partition
-
-Previously we have divide-and-conquer algorithms which is naturally have ideas of partition. 
-
+## Intra-Query
