@@ -18,3 +18,4 @@ As we solve iterator model, we naturally have pipe-lining.
 ## Partition
 
 Previously we have divide-and-conquer algorithms which is naturally have ideas of partition. 
+
