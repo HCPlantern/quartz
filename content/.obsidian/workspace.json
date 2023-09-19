@@ -70,14 +70,6 @@
             }
           },
           {
-            "id": "62caa091d07f0b09",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "b69da851f401982d",
             "type": "leaf",
             "state": {
@@ -85,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 322.49999618530273
+    "width": 311.49999618530273
   },
   "right": {
     "id": "974503b6b9300c30",
@@ -110,14 +103,6 @@
             }
           },
           {
-            "id": "0088aa6bd99ed57d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "d9062e37d7d92c34",
             "type": "leaf",
             "state": {
@@ -126,8 +111,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "0088aa6bd99ed57d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7e1c3a0ad5ab1da6",
@@ -182,10 +176,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "30b73e2c88a04583",
+  "active": "b69da851f401982d",
   "lastOpenFiles": [
-    "study/CS186/Query Optimization.md",
     "study/CS186/Parallel Query.md",
+    "study/CS186/Query Optimization.md",
     "study/CS186/_index.md",
     "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
     "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md",
