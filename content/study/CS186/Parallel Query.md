@@ -76,3 +76,7 @@ We can do parallel scans on multiple machines:
 - Pass 2: local [[Join#Hash Join|Grace Hash Join]] per node
 - Every node waits for Pass 1 to end, and works at its top speed in Pass 2.
 
+## Sorting
+
+- Pass 0: shuffle data across machines
+- Pass 1-n: independently run as [[Join#Sort-Merge Join|single-node sorting]]
