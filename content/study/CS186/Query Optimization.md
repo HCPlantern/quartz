@@ -17,4 +17,5 @@ We cannot know how many I/Os a plan will cost until it's executed. So:
 
 # Selectivity Estimation
 
-Selectivity estimation is an approximation for what percentage of [[Page|pages]] will make it through the operator onto the operator above it.
+- Selectivity estimation is an approximation for what percentage of [[Page|pages]] will make it through the operator onto the operator above it.
+- In other words, it determines how many of the input [[Page|pages]] will be included in the output of the operator in the data processing chain.
