@@ -61,11 +61,18 @@ We can do parallel scans on multiple machines:
 
 ## Hash Join
 
-### Naive parallel hash join
+### Naive Parallel Hash Join
 
 ![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-16-03.png)
 
 - Phase 1: shuffle each table across machines (using $h_{n}$).
 - Phase 2: receivers proceed with naive hashing in a pipeline as probe data streams in.
 
-## Grace Parallel Hash Join
+### Grace Parallel Hash Join
+
+![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-19_15-18-41.png)
+
+- Pass 1: parallel streaming
+- Pass 2: local [[Join#Hash Join|Grace Hash Join]] per node
+- Every node waits for Pass 1 to end, and works at its top speed in Pass 2.
+
