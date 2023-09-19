@@ -43,3 +43,17 @@ We can do parallel scans on multiple machines:
 - Simply scan in parallel and merge result as the ouput.
 - $\sigma_{p}$ : If we use range or hash partitioning, we can skip entire sites that have no tuples satisfying $p$.
 - We can build indexes at each partition
+
+## Lookup by key
+
+- If data partitioned on function of key (range and hash for example), we can only lookup the relevant node.
+- Otherwise we have to broadcast lookup to all nodes.
+
+## Insert a key
+
+- Similarly, if data partitioned on function of key, we route the insert to relevant node.
+- Else, route insert to any node is ok.
+
+## Insert a unique key
+
+- Data partitioned
