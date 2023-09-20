@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Parallel Query.md",
+                "file": "cards/Strategy Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Parallel Query.md"
+                "file": "cards/Strategy Pattern.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Parallel Query.md",
+                "file": "cards/Strategy Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Parallel Query.md",
+                "file": "cards/Strategy Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,9 +176,11 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
+    "study/CS186/Parallel Query.md",
+    "cards/Strategy Pattern.md",
+    "cards",
     "study/CS186/Join.md",
     "study/CS186/_index.md",
-    "study/CS186/Parallel Query.md",
     "study/CS186/Query Optimization.md",
     "study/CS186/Full External Sort.md",
     "study/CS186/External Sort.md",
