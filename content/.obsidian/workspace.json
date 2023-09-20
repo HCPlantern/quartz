@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Parallel Query.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/_index.md"
+                "file": "study/CS186/Parallel Query.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Parallel Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Parallel Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,13 +176,13 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
+    "study/CS186/Join.md",
+    "study/CS186/_index.md",
     "study/CS186/Parallel Query.md",
     "study/CS186/Query Optimization.md",
     "study/CS186/Full External Sort.md",
     "study/CS186/External Sort.md",
     "study/CS186/External Hash.md",
-    "study/CS186/Join.md",
-    "study/CS186/_index.md",
     "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
     "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md",
     "100🏫-Study/23-嵌入式系统概论/lec07-The Real-Time Kernel.md",
