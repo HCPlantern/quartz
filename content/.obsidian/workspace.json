@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Naive Hash Join.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/_index.md"
+                "file": "study/CS186/Naive Hash Join.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Naive Hash Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/_index.md",
+                "file": "study/CS186/Naive Hash Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,12 +176,12 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
+    "study/CS186/Join.md",
+    "study/CS186/_index.md",
     "study/CS186/Grace Hash Join.md",
     "study/CS186/Naive Hash Join.md",
     "study/CS186/Hash Join.md",
     "study/CS186/Index Nested Loop Join.md",
-    "study/CS186/Join.md",
-    "study/CS186/_index.md",
     "study/CS186/Sort-Merge Join.md",
     "study/CS186/Block Nested Loop Join.md",
     "study/CS186/Simple Nested Loop Join.md",
