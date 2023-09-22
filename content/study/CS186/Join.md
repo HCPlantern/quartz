@@ -20,7 +20,7 @@ What is a join?
 > - $|T|$ is the total number of records in table $T$
 > - $|T| = [T] \times \rho_T$
 
-# Join Types
+# Join Methods
 
 - [[Simple Nested Loop Join]]
 - [[Page Nested Loop Join]]
