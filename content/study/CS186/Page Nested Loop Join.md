@@ -1,7 +1,8 @@
 ---
 id: 20230922101646
 title: Page Nested Loop Join
-aliases: 
+aliases:
+  - PNLJ
 date: 2023-09-22 10:16
 draft: false
 tags:

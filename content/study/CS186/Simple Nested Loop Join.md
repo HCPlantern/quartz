@@ -1,4 +1,13 @@
-# Simple Nested Loop Join
+---
+id: 20230922101900
+title: Simple Nested Loop Join
+aliases:
+  - SNLJ
+date: 2023-09-22 10:19
+draft: false
+tags:
+  - database
+---
 
 $$
 \begin{align*} 

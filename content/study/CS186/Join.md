@@ -1,7 +1,8 @@
 ---
 id: 20230915085135
 title: Join
-aliases: 
+aliases:
+  - SMJ
 date: 2023-09-15 08:51
 draft: false
 tags:
@@ -21,7 +22,7 @@ What is a join?
 
 # Join Types
 
--  [[Simple Nested Loop Join]]
+- [[Simple Nested Loop Join]]
 - [[Page Nested Loop Join]]
 - [[Block Nested Loop Join]]
 - [[Index Nested Loop Join]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Untitled.md"
+                "file": "study/CS186/Sort-Merge Join.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Untitled.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,18 +176,21 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
-    "cards/Simple Nested Loop Join.md",
-    "templates/Untitled.md",
-    "cards/Strategy Pattern.md",
-    "cards/Sort-Merge Join.md",
-    "cards/Index Nested Loop Join.md",
-    "cards/Hash Join.md",
-    "cards/Block Nested Loop Join.md",
-    "cards/Page Nested Loop Join.md",
     "study/CS186/Join.md",
-    "study/CS186/Full External Sort.md",
+    "study/CS186/Sort-Merge Join.md",
+    "study/CS186/Hash Join.md",
+    "study/CS186/Index Nested Loop Join.md",
+    "study/CS186/Block Nested Loop Join.md",
+    "study/CS186/Simple Nested Loop Join.md",
+    "study/CS186/Page Nested Loop Join.md",
     "study/CS186/_index.md",
     "study/CS186/External Sort.md",
+    "study/CS186/Untitled",
+    "cards/Strategy Pattern.md",
+    "templates/cs186-template.md",
+    "study/CS186/B+ Tree.md",
+    "templates/default-template.md",
+    "study/CS186/Full External Sort.md",
     "study/CS186/Parallel Query.md",
     "cards",
     "study/CS186/Query Optimization.md",
@@ -199,8 +202,6 @@
     "100🏫-Study/23-嵌入式系统概论/lec05-Bus.md",
     "100🏫-Study/23-嵌入式系统概论/lec08-嵌入式系统建模.md",
     "100🏫-Study/23-嵌入式系统概论/lec04-Memory Architectures.md",
-    "400✍️-Writing/用管道、重定向与 fork() 测试使用标准输入输出的程序.md",
-    "400✍️-Writing/使用 RSSHub + Tiny Tiny RSS 搭建属于自己的 RSS 服务.md",
-    "400✍️-Writing/如何使用 VSCode + SSH 调试 NASM 程序.md"
+    "400✍️-Writing/用管道、重定向与 fork() 测试使用标准输入输出的程序.md"
   ]
 }

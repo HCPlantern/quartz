@@ -1,7 +1,8 @@
 ---
 id: 20230922101731
 title: Block Nested Loop Join
-aliases: 
+aliases:
+  - BNLJ
 date: 2023-09-22 10:17
 draft: false
 tags:

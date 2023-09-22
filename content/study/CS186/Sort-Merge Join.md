@@ -1,4 +1,13 @@
-# Sort-Merge Join
+---
+id: 20230922101853
+title: Sort-Merge Join
+aliases: 
+date: 2023-09-22 10:18
+draft: false
+tags:
+  - database
+---
+
 
 - Sort $R$ and $S$ first. 
 - Then perform tow pointer algorithm
