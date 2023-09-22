@@ -45,6 +45,8 @@ $$
 
 COST = $[R] + \boldsymbol{[R]}[S]$
 
+PNLJ is a special case of [[Join#Block Nested Loop Join||BNLJ]] with $B = 3$.
+
 # Block Nested Loop Join
 
 - We can fully utilize our $B$ buffer [[Page|pages]] rather than 3 [[Page|pages]] used in [[Join#Page Nested Loop Join|PNLJ]] where one for $R$, one for $S$ and one for the output buffer. 
