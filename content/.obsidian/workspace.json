@@ -176,14 +176,16 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
-    "study/CS186/Join.md",
+    "study/CS186/_index.md",
     "study/CS186/Hash Join.md",
+    "study/CS186/Grace Hash Join.md",
+    "study/CS186/Naive Hash Join.md",
+    "study/CS186/Join.md",
     "study/CS186/Sort-Merge Join.md",
     "study/CS186/Index Nested Loop Join.md",
     "study/CS186/Block Nested Loop Join.md",
     "study/CS186/Simple Nested Loop Join.md",
     "study/CS186/Page Nested Loop Join.md",
-    "study/CS186/_index.md",
     "study/CS186/External Sort.md",
     "study/CS186/Untitled",
     "cards/Strategy Pattern.md",
@@ -201,7 +203,6 @@
     "100🏫-Study/23-嵌入式系统概论/lec06-Embedded Software System.md",
     "100🏫-Study/23-嵌入式系统概论/lec05-Bus.md",
     "100🏫-Study/23-嵌入式系统概论/lec08-嵌入式系统建模.md",
-    "100🏫-Study/23-嵌入式系统概论/lec04-Memory Architectures.md",
-    "400✍️-Writing/用管道、重定向与 fork() 测试使用标准输入输出的程序.md"
+    "100🏫-Study/23-嵌入式系统概论/lec04-Memory Architectures.md"
   ]
 }

@@ -7,7 +7,8 @@ draft: false
 tags:
   - database
 ---
-
+-  [[Naive Hash Join]]: 
+-  [[Grace Hash Join]]
 
 ![](https://r2.hcplantern.top/2023/09/17/Snipaste_2023-09-18_16-29-39.png)
 
