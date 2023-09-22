@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Join.md",
+                "file": "templates/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Join.md"
+                "file": "templates/Untitled.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Join.md",
+                "file": "templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Join.md",
+                "file": "templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,13 +176,20 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
-    "study/CS186/Full External Sort.md",
-    "study/CS186/External Sort.md",
+    "cards/Simple Nested Loop Join.md",
+    "templates/Untitled.md",
     "cards/Strategy Pattern.md",
+    "cards/Sort-Merge Join.md",
+    "cards/Index Nested Loop Join.md",
+    "cards/Hash Join.md",
+    "cards/Block Nested Loop Join.md",
+    "cards/Page Nested Loop Join.md",
+    "study/CS186/Join.md",
+    "study/CS186/Full External Sort.md",
+    "study/CS186/_index.md",
+    "study/CS186/External Sort.md",
     "study/CS186/Parallel Query.md",
     "cards",
-    "study/CS186/Join.md",
-    "study/CS186/_index.md",
     "study/CS186/Query Optimization.md",
     "study/CS186/External Hash.md",
     "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
