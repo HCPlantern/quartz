@@ -12,7 +12,7 @@ tags:
 
 - Partitioning phase: We try to split R and S into partitions. Each partition has $R_{i}$ and $S_{i}$ (i.e. partition i of $R$ and partition i of $S$) and make sure either $R_{i}$ or $S_{i} \leq B-2$ [[Page|pages]]. If not, recursively do partition. 
 	- Make sure records with same hash value are in the same partition.
-- Build & Probe Phase: Load the *smaller* partition into memory and build an in-memory hash table. Perform a Naive Hash Join with the larger partition in the pair. 
+- Build & Probe Phase: Load the *smaller* partition into memory and build an in-memory hash table. Perform a [[Naive Hash Join]] with the larger partition in the pair. 
 
 I/O COST:
 - First phase: read + write both relations
