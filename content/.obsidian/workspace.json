@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "04ec8619f5baa67f",
+        "id": "fe6bb087a1860eae",
         "type": "tabs",
         "children": [
           {
-            "id": "12ed5e0ff204df78",
+            "id": "1e8ee3da6b439b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/CS186/Join.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5504bdb2eb8dd4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "naive ",
+                "query": "sort-m",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,23 +79,24 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "b69da851f401982d",
+            "id": "7edb370dbcbed27e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.49999618530273
+    "width": 257.49999618530273
   },
   "right": {
     "id": "974503b6b9300c30",
@@ -90,6 +105,7 @@
       {
         "id": "c6a6bd279b70c79b",
         "type": "tabs",
+        "dimension": 40.91903719912472,
         "children": [
           {
             "id": "30b73e2c88a04583",
@@ -102,7 +118,15 @@
             }
           },
           {
-            "id": "d9062e37d7d92c34",
+            "id": "40654693bb5fd0fe",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "38d75794ec90acb2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -110,20 +134,13 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "0088aa6bd99ed57d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       },
       {
-        "id": "7e1c3a0ad5ab1da6",
+        "id": "ea076484d702361a",
         "type": "tabs",
+        "dimension": 59.08096280087527,
         "children": [
           {
             "id": "3ece0c49d21d30e3",
@@ -132,13 +149,13 @@
               "type": "backlink",
               "state": {
                 "file": "study/CS186/Sort-Merge Join.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -159,50 +176,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-metatable:Metatable": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-metatable:Metatable": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12ed5e0ff204df78",
+  "active": "f5504bdb2eb8dd4c",
   "lastOpenFiles": [
-    "study/CS186/External Sort.md",
-    "study/CS186/Full External Sort.md",
-    "study/CS186/_index.md",
-    "study/CS186/Grace Hash Join.md",
-    "study/CS186/Naive Hash Join.md",
     "study/CS186/Join.md",
-    "study/CS186/Hash Join.md",
-    "study/CS186/Index Nested Loop Join.md",
     "study/CS186/Sort-Merge Join.md",
-    "study/CS186/Block Nested Loop Join.md",
+    "study/CS186/_index.md",
+    "excerpt/fitness/热身.md",
+    "templates/cs186-template.md",
     "study/CS186/Simple Nested Loop Join.md",
     "study/CS186/Page Nested Loop Join.md",
-    "study/CS186/Untitled",
+    "study/CS186/Naive Hash Join.md",
+    "study/CS186/Index Nested Loop Join.md",
+    "study/CS186/Hash Join.md",
+    "study/CS186/Grace Hash Join.md",
+    "study/CS186/Block Nested Loop Join.md",
     "cards/Strategy Pattern.md",
-    "templates/cs186-template.md",
-    "study/CS186/B+ Tree.md",
-    "templates/default-template.md",
-    "study/CS186/Parallel Query.md",
     "cards",
+    "excerpt/fitness/家庭健身.md",
+    "_index.md",
     "study/CS186/Query Optimization.md",
-    "study/CS186/External Hash.md",
-    "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
-    "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md",
-    "100🏫-Study/23-嵌入式系统概论/lec07-The Real-Time Kernel.md",
-    "100🏫-Study/23-嵌入式系统概论/lec06-Embedded Software System.md",
-    "100🏫-Study/23-嵌入式系统概论/lec05-Bus.md",
-    "100🏫-Study/23-嵌入式系统概论/lec08-嵌入式系统建模.md",
-    "100🏫-Study/23-嵌入式系统概论/lec04-Memory Architectures.md"
+    "study/CS186/Parallel Query.md",
+    "templates/default-template.md",
+    "excerpt/fitness/肘关节疼痛.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "excerpt/_index.md",
+    "excerpt/fitness/_index.md",
+    "excerpt/fitness/健身房健身.md",
+    "2023-09-17.md",
+    "excerpt/fitness",
+    "study/CS186/B+ Tree.md",
+    "study/CS186/Architecture of DBMS.md",
+    "study/CS186",
+    "docs/images/quartz transform pipeline.png",
+    "docs/images/quartz layout.png",
+    "docs/images/dns records.png",
+    "docs/tags",
+    "docs/images",
+    "docs/features",
+    "docs/advanced",
+    "docs",
+    "study",
+    "private/面试/LeetCode",
+    "健身🏋️/健身/assets/Untitled 8.png",
+    "健身🏋️/健身/assets/Untitled 7.png",
+    "健身🏋️/健身/assets/Untitled 6.png",
+    "健身🏋️/健身/assets/Untitled 5.png",
+    "健身🏋️/健身/assets/Untitled 1.png",
+    "健身🏋️/健身/新手健身入门 9430092a23d340528eb2f835d05ee03c/Untitled.png",
+    "健身🏋️/健身/家庭健身思路详解 cbe82cbc2ec9458f97a8c604fcb04a7c/Untitled.png",
+    "300📖-Book/置身事内-中国政府与经济发展/未命名.canvas"
   ]
 }
