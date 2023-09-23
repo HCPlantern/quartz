@@ -23,6 +23,7 @@ Catalog Description: Access methods and file systems to facilitate data access. 
 - [[External Sort]]: [[Tow Way External Merge Sort]], [[Full External Sort]]
 - [[External Hash]]
 - [[Join]]
+- [[Parallel Query]]
 - [[Query Optimization]]
 # 🧑‍💻️Project
 

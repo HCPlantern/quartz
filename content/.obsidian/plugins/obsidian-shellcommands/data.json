@@ -10,8 +10,8 @@
   "error_message_duration": 20,
   "notification_message_duration": 10,
   "execution_notification_mode": "disabled",
-  "output_channel_clipboard_also_outputs_to_notification": true,
-  "output_channel_notification_decorates_output": true,
+  "output_channel_clipboard_also_outputs_to_notification": false,
+  "output_channel_notification_decorates_output": false,
   "enable_events": true,
   "approve_modals_by_pressing_enter_key": true,
   "command_palette": {
@@ -77,5 +77,11 @@
   "builtin_variables": {},
   "custom_variables": [],
   "custom_shells": [],
-  "output_wrappers": []
+  "output_wrappers": [
+    {
+      "id": "5q0sf3htbg",
+      "title": "",
+      "content": ""
+    }
+  ]
 }

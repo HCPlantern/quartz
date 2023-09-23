@@ -8,13 +8,13 @@ tags:
   - database
   - algorithm
 ---
-Unlike [[Tow Way External Merge Sort]] where only 2 pages are merged during one sorted run, Full External Sort load pages into buffer as many as possible. 
+Unlike [[Tow Way External Merge Sort]] where only 2 [[Page|pages]] are merged during one sorted run, Full External Sort load [[Page|pages]] into buffer as many as possible. 
 
 ![]( https://pica.zhimg.com/v2-9a42e848a45ff33e93569c2df8a88168_720w.jpg?source=d16d100b ) 
 
 
-Say we have $B$ buffer pages. We have optimizations compared to [[Tow Way External Merge Sort]]: 
-- Load $B$ pages in to buffer and sort them all at once. 
+Say we have $B$ buffer [[Page|pages]]. We have optimizations compared to [[Tow Way External Merge Sort]]: 
+- Load $B$ [[Page|pages]] in to buffer and sort them all at once. 
 - Merge $B -1$ sorted runs because we should take 1 buffer as ouput. 
 
 I/O cost: 
