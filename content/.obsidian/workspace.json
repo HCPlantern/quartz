@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "books/政治学通识/_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,12 +91,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 257.49999618530273
+    "width": 267
   },
   "right": {
     "id": "974503b6b9300c30",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md"
+                "file": "books/政治学通识/_index.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "books/政治学通识/_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "books/政治学通识/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,8 +192,13 @@
   },
   "active": "f5504bdb2eb8dd4c",
   "lastOpenFiles": [
-    "study/CS186/Join.md",
+    "books/_index.md",
+    "books/政治学通识/_index.md",
+    "books/政治学通识",
+    "excerpt/_index.md",
+    "books",
     "study/CS186/Sort-Merge Join.md",
+    "study/CS186/Join.md",
     "study/CS186/_index.md",
     "excerpt/fitness/热身.md",
     "templates/cs186-template.md",
@@ -214,13 +218,10 @@
     "templates/default-template.md",
     "excerpt/fitness/肘关节疼痛.md",
     "excerpt/An Interactive Guide to Flexbox.md",
-    "excerpt/_index.md",
     "excerpt/fitness/_index.md",
     "excerpt/fitness/健身房健身.md",
     "2023-09-17.md",
     "excerpt/fitness",
-    "study/CS186/B+ Tree.md",
-    "study/CS186/Architecture of DBMS.md",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
     "docs/images/quartz layout.png",
@@ -230,8 +231,6 @@
     "docs/features",
     "docs/advanced",
     "docs",
-    "study",
-    "private/面试/LeetCode",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
