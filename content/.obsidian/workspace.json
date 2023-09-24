@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
+                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md"
+                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
+                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
+                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,8 +192,17 @@
   },
   "active": "f5504bdb2eb8dd4c",
   "lastOpenFiles": [
-    "cards/Strategy Pattern.md",
+    "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
+    "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
+    "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
+    "study/Static-Analysis/10-Pointer Analysis Foundations II.md",
+    "study/Static-Analysis/09-Pointer Analysis Foundations I.md",
+    "study/Static-Analysis/08-Pointer Analysis.md",
+    "study/Static-Analysis/07-Interprocedural Analysis.md",
+    "study/Static-Analysis/01-Introduction.md",
+    "study/Static-Analysis/02-Intermediate Representation.md",
     "excerpt/Man-Computer Symbiosis.md",
+    "cards/Strategy Pattern.md",
     "books/_index.md",
     "books/政治学通识/_index.md",
     "books/政治学通识",
@@ -212,15 +221,6 @@
     "study/CS186/Grace Hash Join.md",
     "study/CS186/Block Nested Loop Join.md",
     "cards",
-    "excerpt/fitness/家庭健身.md",
-    "_index.md",
-    "study/CS186/Query Optimization.md",
-    "study/CS186/Parallel Query.md",
-    "templates/default-template.md",
-    "excerpt/fitness/肘关节疼痛.md",
-    "excerpt/An Interactive Guide to Flexbox.md",
-    "excerpt/fitness/_index.md",
-    "excerpt/fitness/健身房健身.md",
     "excerpt/fitness",
     "study/CS186",
     "docs/images/quartz transform pipeline.png",
