@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Full External Sort.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Full External Sort.md"
+                "file": "study/CS186/Sort-Merge Join.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Full External Sort.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Full External Sort.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -176,8 +176,9 @@
   },
   "active": "12ed5e0ff204df78",
   "lastOpenFiles": [
-    "study/CS186/Tow Way External Merge Sort.md",
+    "study/CS186/Record.md",
     "study/CS186/Full External Sort.md",
+    "study/CS186/Tow Way External Merge Sort.md",
     "study/CS186/External Sort.md",
     "study/CS186/Sort-Merge Join.md",
     "study/CS186/_index.md",
@@ -202,7 +203,6 @@
     "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md",
     "100🏫-Study/23-嵌入式系统概论/lec07-The Real-Time Kernel.md",
     "100🏫-Study/23-嵌入式系统概论/lec06-Embedded Software System.md",
-    "100🏫-Study/23-嵌入式系统概论/lec05-Bus.md",
-    "100🏫-Study/23-嵌入式系统概论/lec08-嵌入式系统建模.md"
+    "100🏫-Study/23-嵌入式系统概论/lec05-Bus.md"
   ]
 }
