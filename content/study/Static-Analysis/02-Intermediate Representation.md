@@ -5,8 +5,7 @@ tags: static-analysis
 date: 2022-09-22 13:46
 source: https://www.bilibili.com/video/BV1zE411s77Z/
 ---
-```toc
-```
+
 > 本文参考:
 > - [『南京大学-软件分析』课程笔记 - Theoyu](https://theoyu.top/2022/03/10/StaticProgramAnalysis.html)
 > - [【课程笔记】南大软件分析课程2——IR - 简书 (jianshu.com)](https://www.jianshu.com/p/acb73f72cf46)

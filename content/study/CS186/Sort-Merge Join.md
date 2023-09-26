@@ -1,7 +1,8 @@
 ---
 id: 20230922101853
 title: Sort-Merge Join
-aliases: 
+aliases:
+  - SMJ
 date: 2023-09-22 10:18
 draft: false
 tags:

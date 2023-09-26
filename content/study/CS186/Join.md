@@ -1,8 +1,7 @@
 ---
 id: 20230915085135
 title: Join
-aliases:
-  - SMJ
+aliases: []
 date: 2023-09-15 08:51
 draft: false
 tags:
