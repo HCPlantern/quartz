@@ -10,9 +10,9 @@ tags:
 
 
 - Sort $R$ and $S$ first. 
-- Then perform tow pointer algorithm
+- Then perform tow-pointer-like algorithm: 
 
-```
+``` title="Join Tow Sorted Relation"
 do {
 	if (!mark) {
 		while (r < s) { advance r }
@@ -20,14 +20,14 @@ do {
 		// mark start of \block" of S
 		mark = s
 	}
-if (r == s) {
-	result = <r, s>
-	advance s
-	yield result
-} else {
-	reset s to mark
-	advance r
-	mark = NULL
+	if (r == s) {
+		result = <r, s>
+		advance s
+		yield result
+	} else {
+		reset s to mark
+		advance r
+		mark = NULL
 	}
 }
 ```
