@@ -12,6 +12,26 @@ tags:
 - Sort $R$ and $S$ first. 
 - Then perform tow pointer algorithm
 
+```
+do {
+	if (!mark) {
+		while (r < s) { advance r }
+		while (r > s) { advance s }
+		// mark start of \block" of S
+		mark = s
+	}
+if (r == s) {
+	result = <r, s>
+	advance s
+	yield result
+} else {
+	reset s to mark
+	advance r
+	mark = NULL
+	}
+}
+```
+
 COST = $\text{cost to sort } R + \text{ cost to sort } S+ ([R] + [S])$
 
 ## Optimization
