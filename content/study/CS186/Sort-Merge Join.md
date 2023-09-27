@@ -13,7 +13,7 @@ tags:
 - Sort $R$ and $S$ first. 
 - Then perform tow-pointer-like algorithm: 
 
-``` title="Join Tow Sorted Relation"
+```java title="Join Tow Sorted Relation"
 do {
 	if (!mark) {
 		while (r < s) { advance r }
