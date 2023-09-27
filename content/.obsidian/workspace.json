@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md"
+                "file": "excerpt/An Interactive Guide to Flexbox.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/fitness/家庭健身.md",
+                "file": "excerpt/An Interactive Guide to Flexbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,8 +174,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12ed5e0ff204df78",
+  "active": "540b73a8083ca95b",
   "lastOpenFiles": [
+    "excerpt/fitness/家庭健身.md",
     "study/CS186/Sort-Merge Join.md",
     "excerpt/Man-Computer Symbiosis.md",
     "books/政治学通识/_index.md",
@@ -204,7 +205,6 @@
     "cards",
     "study/CS186/Query Optimization.md",
     "study/CS186/External Hash.md",
-    "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md",
-    "100🏫-Study/23-嵌入式系统概论/lec01-嵌入式系统概论.md"
+    "100🏫-Study/25-Static-Analysis/03&04-Data Flow Analysis Applications.md"
   ]
 }
