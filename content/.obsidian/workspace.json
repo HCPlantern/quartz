@@ -24,9 +24,12 @@
             "id": "353776ebe3505067",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -108,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards/荣耀实习总结.md"
+                "file": "_index.md"
               }
             }
           },
@@ -142,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
