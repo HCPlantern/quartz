@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "cards/荣耀实习总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "353776ebe3505067",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md"
+                "file": "cards/荣耀实习总结.md"
               }
             }
           },
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "cards/荣耀实习总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/CS186/Sort-Merge Join.md",
+                "file": "cards/荣耀实习总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,13 +185,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12ed5e0ff204df78",
+  "active": "353776ebe3505067",
   "lastOpenFiles": [
+    "study/CS186/Sort-Merge Join.md",
+    "cards/荣耀实习总结.md",
     "study/CS186/Join.md",
     "study/CS186/_index.md",
     "excerpt/An Interactive Guide to Flexbox.md",
     "excerpt/fitness/家庭健身.md",
-    "study/CS186/Sort-Merge Join.md",
     "excerpt/Man-Computer Symbiosis.md",
     "books/政治学通识/_index.md",
     "books/政治学通识",
@@ -204,7 +216,6 @@
     "templates/default-template.md",
     "study/CS186/Parallel Query.md",
     "cards",
-    "study/CS186/Query Optimization.md",
-    "study/CS186/External Hash.md"
+    "study/CS186/Query Optimization.md"
   ]
 }
