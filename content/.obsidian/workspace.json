@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "study/CS186/Sort-Merge Join.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "study/CS186/Sort-Merge Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,6 +190,7 @@
   },
   "active": "353776ebe3505067",
   "lastOpenFiles": [
+    "_index.md",
     "study/CS186/Sort-Merge Join.md",
     "cards/荣耀实习总结.md",
     "study/CS186/Join.md",
@@ -218,7 +219,6 @@
     "study/CS186/B+ Tree.md",
     "templates/default-template.md",
     "study/CS186/Parallel Query.md",
-    "cards",
-    "study/CS186/Query Optimization.md"
+    "cards"
   ]
 }
