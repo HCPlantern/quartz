@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5504bdb2eb8dd4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md"
+                "file": "study/CS186/Join.md"
               }
             }
           },
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+                "file": "study/CS186/Join.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
+                "file": "study/CS186/Join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f5504bdb2eb8dd4c",
+  "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
+    "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
     "study/Static-Analysis/11-Pointer Analysis Context Sensitivity I.md",
@@ -219,7 +206,6 @@
     "study/CS186/Index Nested Loop Join.md",
     "study/CS186/Hash Join.md",
     "study/CS186/Grace Hash Join.md",
-    "study/CS186/Block Nested Loop Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",
