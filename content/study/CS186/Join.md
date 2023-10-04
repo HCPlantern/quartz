@@ -11,7 +11,7 @@ tags:
 
 What is a join? 
 - Take tow relations $R, S$, and create one new relation out of their matches on the join condition.
-- That is, for each [[record]] $r_i$ in $R$, find all records $s_j$ in $S$ that match the join condition and write $< r_i,s_j$ as a new row in the output. All the fields of $r$ followed by all the fields of $s$. 
+- That is, for each [[record]] $r_i$ in $R$, find all records $s_j$ in $S$ that match the join condition and write $<r_{i},s_{j}>$ as a new row in the output. All the fields of $r$ followed by all the fields of $s$. 
 
 > [!hint] Notation Conventions
 > -  $[T]$ is the number of [[Page|pages]] in table $T$
@@ -31,7 +31,7 @@ What is a join?
 # Hash Join vs. Sort-Merge Join
 
 Sorting pros:
-- Goof if input already sorted, or need output sorted
+- Good if input already sorted, or need output sorted
 - Not sensitive to data skew or bad hash functions
 
 Hashing pros:
