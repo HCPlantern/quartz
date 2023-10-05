@@ -8,9 +8,12 @@ tags:
 marp: true
 paginate: true
 theme: gaia
+header: '**Man-Computer Symbiosis**'
+footer: '**201250035 邓尤亮**'
 ---
 
-<!-- header: Man-Computer Symbiosis -->
+
+<!-- _class: extra-slide -->
 
 > [!quote] Source
 > [Man-Computer Symbiosis (mit.edu)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
