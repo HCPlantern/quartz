@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
-                "mode": "source",
+                "file": "_index.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md"
+                "file": "_index.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excerpt/Man-Computer Symbiosis.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,6 +193,12 @@
   },
   "active": "5e988e653f6ea8f8",
   "lastOpenFiles": [
+    "writings/_index.md",
+    "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
+    "study/_index.md",
+    "excerpt/_index.md",
+    "excerpt/An Interactive Guide to Flexbox.md",
+    "excerpt/Man-Computer Symbiosis.md",
     "excerpt/converted.pdf",
     "excerpt/Man-Computer Symbiosis.html",
     "cards/Strategy Pattern.md",
@@ -207,11 +213,9 @@
     "study/Static-Analysis/07-Interprocedural Analysis.md",
     "study/Static-Analysis/01-Introduction.md",
     "study/Static-Analysis/02-Intermediate Representation.md",
-    "excerpt/Man-Computer Symbiosis.md",
     "books/_index.md",
     "books/政治学通识/_index.md",
     "books/政治学通识",
-    "excerpt/_index.md",
     "books",
     "study/CS186/Sort-Merge Join.md",
     "study/CS186/Join.md",
@@ -219,9 +223,6 @@
     "excerpt/fitness/热身.md",
     "templates/cs186-template.md",
     "study/CS186/Simple Nested Loop Join.md",
-    "study/CS186/Page Nested Loop Join.md",
-    "study/CS186/Naive Hash Join.md",
-    "study/CS186/Index Nested Loop Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",
@@ -231,7 +232,6 @@
     "docs/tags",
     "docs/images",
     "docs/features",
-    "docs/advanced",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
