@@ -16,6 +16,8 @@ footer: '**201250035 邓尤亮**'
 
 <!-- _paginate: skip -->
 
+<!-- _hide: true -->
+
 > [!quote] Source
 > [Man-Computer Symbiosis (mit.edu)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 > 

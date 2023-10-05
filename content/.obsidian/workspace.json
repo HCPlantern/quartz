@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "excerpt/Man-Computer Symbiosis.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 267,
+    "collapsed": true
   },
   "right": {
     "id": "974503b6b9300c30",
@@ -205,8 +206,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "540b73a8083ca95b",
+  "active": "5e988e653f6ea8f8",
   "lastOpenFiles": [
+    "excerpt/converted.pdf",
     "excerpt/Man-Computer Symbiosis.html",
     "cards/Strategy Pattern.md",
     "cards/荣耀实习总结.md",
@@ -245,7 +247,6 @@
     "docs/images",
     "docs/features",
     "docs/advanced",
-    "docs",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
