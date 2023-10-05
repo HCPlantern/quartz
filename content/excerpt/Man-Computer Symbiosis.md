@@ -6,9 +6,12 @@ date: 2023-09-24 17:48
 draft: false
 tags: 
 marp: true
-paginate: hold
-theme: default
+paginate: true
+theme: gaia
 ---
+
+<!-- header: Man-Computer Symbiosis -->
+
 > [!quote] Source
 > [Man-Computer Symbiosis (mit.edu)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 > 
