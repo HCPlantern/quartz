@@ -35,6 +35,20 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8263b6b953066fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce57320eb0e60e61",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,11 +201,13 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-metatable:Metatable": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5e988e653f6ea8f8",
+  "active": "540b73a8083ca95b",
   "lastOpenFiles": [
+    "excerpt/Man-Computer Symbiosis.html",
     "cards/Strategy Pattern.md",
     "cards/荣耀实习总结.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
@@ -219,7 +235,6 @@
     "study/CS186/Page Nested Loop Join.md",
     "study/CS186/Naive Hash Join.md",
     "study/CS186/Index Nested Loop Join.md",
-    "study/CS186/Hash Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",

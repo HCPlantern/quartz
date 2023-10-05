@@ -4,7 +4,10 @@ title: Man-Computer Symbiosis
 aliases: 
 date: 2023-09-24 17:48
 draft: false
-tags:
+tags: 
+marp: true
+paginate: hold
+theme: default
 ---
 > [!quote] Source
 > [Man-Computer Symbiosis (mit.edu)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
