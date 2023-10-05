@@ -35,20 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "8263b6b953066fab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce57320eb0e60e61",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267,
-    "collapsed": true
+    "width": 267
   },
   "right": {
     "id": "974503b6b9300c30",

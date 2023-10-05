@@ -7,11 +7,17 @@ draft: false
 tags: 
 marp: true
 paginate: true
-theme: 
+theme: gaia
 header: "**Man-Computer Symbiosis**"
 footer: "**201250035 邓尤亮**"
 ---
+
+<!-- _class: invert -->
 # Man-Computer Symbiosis
+
+201250035 邓尤亮
+
+2023.10.05
 
 ---
 
