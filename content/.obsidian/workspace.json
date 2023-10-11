@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "_index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards/荣耀实习总结.md"
+                "file": "_index.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "_index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,6 +193,7 @@
   },
   "active": "5e988e653f6ea8f8",
   "lastOpenFiles": [
+    "cards/荣耀实习总结.md",
     "_index.md",
     "writings/_index.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
@@ -203,7 +204,6 @@
     "excerpt/converted.pdf",
     "excerpt/Man-Computer Symbiosis.html",
     "cards/Strategy Pattern.md",
-    "cards/荣耀实习总结.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
