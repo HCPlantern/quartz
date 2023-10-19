@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6bb087a1860eae",
+        "id": "86095d455f6559aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8ee3da6b439b06",
+            "id": "5b29b68cc503a1b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/Books Todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "books/Books Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Books Todo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Books Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,10 +168,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1e8ee3da6b439b06",
+  "active": "5b29b68cc503a1b5",
   "lastOpenFiles": [
-    "private/命令总结.md",
     "books/Books Todo.md",
+    "private/命令总结.md",
     "cards/荣耀实习总结.md",
     "cards/Strategy Pattern.md",
     "cards/提建议.md",
