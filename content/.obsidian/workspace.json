@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "private/命令总结.md",
+                "file": "books/Books Todo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/命令总结.md"
+                "file": "books/Books Todo.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/命令总结.md",
+                "file": "books/Books Todo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/命令总结.md",
+                "file": "books/Books Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,10 +179,11 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
+    "private/命令总结.md",
+    "books/Books Todo.md",
     "cards/荣耀实习总结.md",
     "cards/Strategy Pattern.md",
     "cards/提建议.md",
-    "private/命令总结.md",
     "提建议.md",
     "private",
     "study/CS186/Join.md",
@@ -209,7 +210,6 @@
     "books/政治学通识/_index.md",
     "books/政治学通识",
     "books",
-    "study/CS186/Sort-Merge Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",
