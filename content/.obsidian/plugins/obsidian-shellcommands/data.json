@@ -25,7 +25,8 @@
     {
       "id": "ed3jyzi92z",
       "platform_specific_commands": {
-        "default": "git pull; git add --all; git commit -am \"Updated: $(Get-Date)\"; git push"
+        "default": "git pull; git add --all; git commit -am \"Updated: $(Get-Date)\"; git push",
+        "darwin": "git pull; git add --all; git commit -am \"Updated: $(date +'%Y-%m-%d %H:%M:%S')\"; git push"
       },
       "shells": {
         "win32": "PowerShell.exe"
