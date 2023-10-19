@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/CS186/Join.md",
+                "file": "cards/荣耀实习总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5e988e653f6ea8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "cards/荣耀实习总结.md"
               }
             }
           },
@@ -147,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "cards/荣耀实习总结.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "cards/荣耀实习总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,20 +165,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-metatable:Metatable": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-metatable:Metatable": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "marp-slides:Show Slide Preview": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5e988e653f6ea8f8",
+  "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
+    "cards/Strategy Pattern.md",
+    "cards/提建议.md",
+    "private/命令总结.md",
+    "提建议.md",
+    "private",
+    "study/CS186/Join.md",
+    "_index.md",
     "writings/_index.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
     "study/_index.md",
@@ -201,7 +194,6 @@
     "excerpt/Man-Computer Symbiosis.md",
     "excerpt/converted.pdf",
     "excerpt/Man-Computer Symbiosis.html",
-    "cards/Strategy Pattern.md",
     "cards/荣耀实习总结.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
@@ -218,11 +210,6 @@
     "books/政治学通识",
     "books",
     "study/CS186/Sort-Merge Join.md",
-    "study/CS186/Join.md",
-    "study/CS186/_index.md",
-    "excerpt/fitness/热身.md",
-    "templates/cs186-template.md",
-    "study/CS186/Simple Nested Loop Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",
@@ -231,7 +218,6 @@
     "docs/images/dns records.png",
     "docs/tags",
     "docs/images",
-    "docs/features",
     "健身🏋️/健身/assets/Untitled 8.png",
     "健身🏋️/健身/assets/Untitled 7.png",
     "健身🏋️/健身/assets/Untitled 6.png",
