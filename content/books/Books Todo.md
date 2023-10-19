@@ -6,5 +6,6 @@ date: 2023-10-19 19:53
 draft: false
 tags:
 ---
-- *Educated* - Tara Westover: #Education
-- 「私房阅读」
+- *Educated* - Tara Westover: #education
+- 「私房阅读金瓶梅」- 侯文咏: #novel
+- *The Women's Room*  
