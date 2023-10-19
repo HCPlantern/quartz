@@ -13,21 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "private/命令总结.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e988e653f6ea8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cards/荣耀实习总结.md"
+                "file": "private/命令总结.md"
               }
             }
           },
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "private/命令总结.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cards/荣耀实习总结.md",
+                "file": "private/命令总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,6 +179,14 @@
   },
   "active": "1e8ee3da6b439b06",
   "lastOpenFiles": [
+    "cards/荣耀实习总结.md",
+    "cards/Strategy Pattern.md",
+    "cards/提建议.md",
+    "private/命令总结.md",
+    "提建议.md",
+    "private",
+    "study/CS186/Join.md",
+    "_index.md",
     "writings/_index.md",
     "writings/如何使用 VSCode + SSH 调试 NASM 程序.md",
     "study/_index.md",
@@ -200,8 +195,6 @@
     "excerpt/Man-Computer Symbiosis.md",
     "excerpt/converted.pdf",
     "excerpt/Man-Computer Symbiosis.html",
-    "cards/Strategy Pattern.md",
-    "cards/荣耀实习总结.md",
     "study/Static-Analysis/0304-Data Flow Analysis Applications.md",
     "study/Static-Analysis/0506-Data Flow Analysis Foundations.md",
     "study/Static-Analysis/12-Pointer Analysis Context Sensitivity II.md",
@@ -217,11 +210,6 @@
     "books/政治学通识",
     "books",
     "study/CS186/Sort-Merge Join.md",
-    "study/CS186/Join.md",
-    "study/CS186/_index.md",
-    "excerpt/fitness/热身.md",
-    "templates/cs186-template.md",
-    "study/CS186/Simple Nested Loop Join.md",
     "cards",
     "excerpt/fitness",
     "study/CS186",
