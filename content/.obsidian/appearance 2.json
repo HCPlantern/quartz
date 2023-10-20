@@ -1,0 +1,14 @@
+{
+  "accentColor": "#cd6c4c",
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "微软雅黑",
+  "textFontFamily": "RobotoMono Nerd Font,微软雅黑",
+  "monospaceFontFamily": "Hack,Hack Nerd Font Mono,苹方",
+  "enabledCssSnippets": [
+    "yaozhuwa@CSS"
+  ],
+  "baseFontSize": 15,
+  "nativeMenus": false,
+  "translucency": false
+}

@@ -1,0 +1,13 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "folder",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "newLinkFormat": "shortest",
+  "newFileFolderPath": "cards"
+}

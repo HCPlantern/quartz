@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Books Todo.md",
+                "file": "private/命令总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Books Todo.md"
+                "file": "private/命令总结.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Books Todo.md",
+                "file": "private/命令总结.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Books Todo.md",
+                "file": "private/命令总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,8 +179,8 @@
   },
   "active": "5b29b68cc503a1b5",
   "lastOpenFiles": [
-    "books/_index.md",
     "books/Books Todo.md",
+    "books/_index.md",
     "private/命令总结.md",
     "cards/荣耀实习总结.md",
     "cards/Strategy Pattern.md",
