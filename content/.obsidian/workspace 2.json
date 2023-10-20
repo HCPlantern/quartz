@@ -11,13 +11,8 @@
             "id": "5b29b68cc503a1b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/Books Todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "books/Books Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Books Todo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Books Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +170,6 @@
   },
   "active": "5b29b68cc503a1b5",
   "lastOpenFiles": [
-    "books/_index.md",
     "books/Books Todo.md",
     "private/命令总结.md",
     "cards/荣耀实习总结.md",
@@ -207,6 +197,7 @@
     "study/Static-Analysis/07-Interprocedural Analysis.md",
     "study/Static-Analysis/01-Introduction.md",
     "study/Static-Analysis/02-Intermediate Representation.md",
+    "books/_index.md",
     "books/政治学通识/_index.md",
     "books/政治学通识",
     "books",
