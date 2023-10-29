@@ -1,5 +1,8 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "accentColor": "",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "Hack Nerd Font Mono,Microsoft YaHei",
+  "textFontFamily": "Hack Nerd Font Mono,Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei"
 }
