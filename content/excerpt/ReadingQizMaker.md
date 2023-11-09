@@ -16,8 +16,7 @@ footer: "**201250035 邓尤亮**"
 
 # Reading QizMaker
 
-> Source: 
-> Lu, X., Fan, S., Houghton, J., Wang, L., & Wang, X. (2023, April). ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Quality Reading Quiz Questions. In _Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems_ (pp. 1-18).
+ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to Design High-Quality Reading Quiz Questions.
 
 201250035 邓尤亮
 
