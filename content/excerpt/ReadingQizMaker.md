@@ -136,3 +136,26 @@ performed a formative study with 11 college instructors to understand their natu
 # 4. Reading Quiz Maker
 
 ## Detailed Design
+
+<!--
+ReadingQuizMaker 的详细设计包括以下功能和特性：
+
+1. **与HTML文章兼容性**：ReadingQuizMaker旨在与HTML格式的文章兼容。这是因为大多数学术出版物和在线文档都以HTML格式提供，这种格式在系统内易于访问和操作。
+2. **导航栏**：导航栏帮助用户快速了解阅读材料的内容覆盖范围。它将表格和图表突出显示为文本内的绿色块，块的大小与图表大小成比例。这个功能有助于用户更高效地导航阅读材料，确保他们在创建测验问题时覆盖了所有必要的内容。
+3. **NLP建议的即时预览**：当用户选择要在问题中使用的文本时，ReadingQuizMaker会立即预览由人工智能生成的建议，如释义或摘要。这个过程导向的支持允许用户在不需要额外操作的情况下快速高效地利用NLP转换来提高问题质量。
+4. **问题创作面板**：问题创作面板与用户自然的问题创建工作流程相符。它支持多选、多项回答和开放性问题类型。用户可以从Paper面板传输文本和图像，也可以自由添加内容，从而促进灵活的问题创建过程。
+5. **用户自然工作流程和反馈**：该系统适应用户自然的工作流程，使他们能够为问题选项编写反馈。它还允许用户通过添加注释进行高级规划，从而更容易地从头到尾管理测验创建过程。
+6. **内容覆盖和准确性**：ReadingQuizMaker有助于确保问题全面和准确地涵盖内容，这对于教育评估至关重要。用户可以根据阅读材料中的内容审查他们创建的问题，以确保没有遗漏重要信息。
+
+ReadingQuizMaker的设计是根据形成性研究中确定的挑战和要求而制定的，旨在为教师提供一个高效和以用户为中心的工具，用于创建阅读测验问题
+-->
+
+1. **Compatibility with HTML Articles**
+2. **Navigation Bar**
+3. **Immediate Preview of NLP Suggestions**
+4. **User Natural Workflows and Feedback**
+5. **NLP Toolbox**
+6. **Review and Output**
+
+---
+
