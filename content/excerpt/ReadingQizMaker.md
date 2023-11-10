@@ -176,3 +176,32 @@ ReadingQuizMaker 系统采用了一系列基于 Transformer 的自然语言处�
 1. **Abstractive Summarization Model**: Utilizes a fine-tuned BART (Bidirectional and Auto-Regressive Transformers) model that is trained on the CNN-DailyMail dataset.
 2. **Paraphrase Model**: This model is pretrained on PEGASUS (Pre-training with Extracted Gap-sentences for Abstractive Summarization Sequence-to-sequence models) and is used to rephrase sentences while retaining their semantic information
 3. **Negation Model**: A BART-based model fine-tuned on WikiFactCheck-English for negative claim generation.
+
+---
+
+# 5. Evaluation Study
+
+<!-- 
+论文中的“评估研究”部分讨论了一项获得机构审查委员会（IRB）批准的研究，旨在评估 ReadingQuizMaker 系统的可用性和实用性，特别是与自动问题生成方法相比，特别是其人工智能与人类协作系统。研究探讨了四个关键的研究问题：
+
+1. **ReadingQuizMaker 的可用性**：确认了教师可以使用 ReadingQuizMaker 创建令人满意的问题。
+
+2. **对 AI 建议的感知**：教师积极看待 AI 建议，认为它们有用且不会分散注意力，他们能够控制何时以及如何使用这些建议。他们采纳了大约 60%的 AI 生成的建议，这些建议通常为问题创建提供了有用的起点或灵感。
+
+3. **与自动问题生成的比较**：研究发现，教师更倾向于 ReadingQuizMaker 的人工智能与人类协作方法，而不是自动问题生成方法。他们喜欢能够控制整个过程，确保问题与他们的教育目标一致。
+
+4. **挑战和设计启示**：教师在创建干扰项和找到适当的问题引导方面遇到了挑战，有些难以使用缺乏上下文或不符合教学目标的自动问题。但他们也指出，该系统易于使用，有助于他们创建高质量的问题。
+
+研究参与者赞赏快速创建有意义的问题的能力，并发现该系统支持他们的自然工作流程。研究得出结论，尽管教师有时会修改 AI 建议以使其更符合需求，但他们发现这些建议在问题创建过程中是有价值的辅助工具。该系统被设计用于与学习管理系统集成，允许问题用作形式性或总结性评估，或作为阅读指南以促进学习。
+-->
+
+Four key research questions:
+
+1. **Usability of ReadingQuizMaker**: instructors use ReadingQuizMaker to create satisfactory questions.
+2. **Perception of AI Suggestions**: Instructors perceived AI suggestions positively, finding them useful and not distracting, and they were able to control when and how to use these suggestions. They adopted about 60% of the AI-generated suggestions, which often provided useful starting points or inspiration for question creation.
+
+3. **Comparison with Automatic Question Generation**: The study found a strong preference among instructors for the human-AI teaming approach of ReadingQuizMaker over the automatic question generation approach. They appreciated having control over the process and the ability to ensure the questions aligned with their educational goals.
+
+4. **Challenges and Design Implications**: Instructors reported challenges in creating distractors and finding appropriate question stems, with some difficulty in using automated questions that lacked context or did not align with their teaching goals. However, they also noted that the system was easy to use and helped them create high-quality questions.
+
+Participants in the study appreciated the ability to create meaningful questions quickly and found the system to support their natural workflows. The study concluded that while instructors sometimes modified AI suggestions to improve their fit, they found these suggestions to be a valuable aid in the question creation process. The system was designed to be integrated with learning management systems, allowing the questions to be used as either formative or summative assessments or as a reading guide to facilitate learning【100†source】.
