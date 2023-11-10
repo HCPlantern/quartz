@@ -91,3 +91,40 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 
 # 3. Formative Investigations
 
+<!--
+
+performed a formative study with 11 college instructors to understand their natural workfows of creating questions
+
+论文的“形成性调查”部分包括以下结论：
+
+1. **问题创建中的独特挑战**：大学教师在手工创建问题时面临独特的挑战，如耗时和难以创建有意义的干扰项和问题引导，这些干扰项和问题引导需要准确涵盖内容并激发思考。
+
+2. **对高质量问题的渴望**：教师一致认为需要高质量的阅读问题，这些问题可以引导学生超越死记硬背，将知识整合起来并促进批判性思维。
+
+3. **自然语言处理工具的支持**：教师对使用自然语言处理工具来协助问题创建过程持积极态度，但他们强调需要对这些工具进行控制，以确保结果的质量和相关性。
+
+4. **设计要求**：该研究确定了一个以用户为中心的系统以帮助教师的几个设计要求：
+   - 支持创建具有说服力的干扰项。
+   - 过程导向的支持，允许融入教师的专业知识。
+   - 与当前工作流程集成，以快速创建问题。
+   - 提供问题的简便反馈机制。
+   - 确保教师在与人工智能互动时具有控制权。
+
+这些结论反映了教师希望有一个支持他们工作流程、尊重他们专业知识的系统，并提供可控和透明的人工智能辅助，与人工智能与人类互动设计指南一致。
+-->
+
+1. **Unique Challenges in Question Creation**
+2. **Desire for High-Quality Questions**
+3. **NLP Tool Support**
+4. **Design Requirements**
+    - Support for creating convincing distractors.
+    - Process-oriented support allowing for the incorporation of instructors' expertise.
+    - Integration with current workflows for quick question creation.
+    - Easy feedback mechanism for the questions.
+    - Ensuring instructors have control when interacting with AI.
+
+
+---
+
+# 4. Reading Quiz Maker
+
