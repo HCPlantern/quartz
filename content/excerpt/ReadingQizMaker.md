@@ -103,6 +103,16 @@ performed a formative study with 11 college instructors to understand their natu
 
 3. **自然语言处理工具的支持**：教师对使用自然语言处理工具来协助问题创建过程持积极态度，但他们强调需要对这些工具进行控制，以确保结果的质量和相关性。
 
+-->
+
+1. **Unique Challenges in Question Creation**
+2. **Desire for High-Quality Questions**
+3. **NLP Tool Support**
+
+---
+
+<!--
+
 4. **设计要求**：该研究确定了一个以用户为中心的系统以帮助教师的几个设计要求：
    - 支持创建具有说服力的干扰项。
    - 过程导向的支持，允许融入教师的专业知识。
@@ -111,11 +121,8 @@ performed a formative study with 11 college instructors to understand their natu
    - 确保教师在与人工智能互动时具有控制权。
 
 这些结论反映了教师希望有一个支持他们工作流程、尊重他们专业知识的系统，并提供可控和透明的人工智能辅助，与人工智能与人类互动设计指南一致。
--->
 
-1. **Unique Challenges in Question Creation**
-2. **Desire for High-Quality Questions**
-3. **NLP Tool Support**
+-->
 4. **Design Requirements**
     - Support for creating convincing distractors.
     - Process-oriented support allowing for the incorporation of instructors' expertise.
@@ -128,3 +135,4 @@ performed a formative study with 11 college instructors to understand their natu
 
 # 4. Reading Quiz Maker
 
+## Detailed Design
