@@ -196,12 +196,44 @@ ReadingQuizMaker 系统采用了一系列基于 Transformer 的自然语言处�
 -->
 
 Four key research questions:
+1. **Usability of ReadingQuizMaker**: Instructors could use ReadingQuizMaker to create satisfactory questions.
+2. **Perception of AI Suggestions**: Instructors perceived AI suggestions positively, finding them useful and not distracting, and they were able to control when and how to use these suggestions.
+3. **Comparison with Automatic Question Generation**: The study found a strong preference among instructors for the **human-AI teaming approach of ReadingQuizMaker** over the automatic question generation approach.
+4. **Challenges and Design Implications**: Instructors reported challenges in creating distractors and finding appropriate question stems.
+---
 
-1. **Usability of ReadingQuizMaker**: instructors use ReadingQuizMaker to create satisfactory questions.
-2. **Perception of AI Suggestions**: Instructors perceived AI suggestions positively, finding them useful and not distracting, and they were able to control when and how to use these suggestions. They adopted about 60% of the AI-generated suggestions, which often provided useful starting points or inspiration for question creation.
+# 6. Discussion
 
-3. **Comparison with Automatic Question Generation**: The study found a strong preference among instructors for the human-AI teaming approach of ReadingQuizMaker over the automatic question generation approach. They appreciated having control over the process and the ability to ensure the questions aligned with their educational goals.
+<!--
+“讨论”部分讨论了在对 ReadingQuizMaker 进行评估研究之后可能的未来方向。它概述了以下几点：
 
-4. **Challenges and Design Implications**: Instructors reported challenges in creating distractors and finding appropriate question stems, with some difficulty in using automated questions that lacked context or did not align with their teaching goals. However, they also noted that the system was easy to use and helped them create high-quality questions.
+1. **ReadingQuizMaker 的积极反响**：参与者对该系统的反应非常积极，他们发现使用起来容易而直观。他们赞赏问题引导和 AI 建议，这些有助于他们创建高质量的问题。
 
-Participants in the study appreciated the ability to create meaningful questions quickly and found the system to support their natural workflows. The study concluded that while instructors sometimes modified AI suggestions to improve their fit, they found these suggestions to be a valuable aid in the question creation process. The system was designed to be integrated with learning management systems, allowing the questions to be used as either formative or summative assessments or as a reading guide to facilitate learning【100†source】.
+2. **对人工智能与人类协作的偏好**：教师明显更倾向于 ReadingQuizMaker 的人工智能与人类协作方法，而不是完全自动化的问题生成。他们重视对问题创建过程的控制，而人工智能与人类协作方法提供了这种控制。
+
+3. **挑战和未来方向**：论文识别了问题创建过程中仍然存在的一些挑战：
+   - **发现和采用 AI 建议**：当 AI 建议可以在不需要额外用户操作的情况下轻松访问时，它们更有可能被采用。自动显示的释义建议比摘要和否定操作更常用。
+   - **AI 输出的可视化和可解释性**：用户难以理解自然语言处理结果，特别是在摘要方面。论文建议需要更好的可视化技术，以帮助用户高效地感知自然语言处理结果。此外，解释模型生成结果的方式，尤其是对于否定模型，可以提高用户对 AI 建议的理解和控制。
+
+4. **自动化与人工智能与人类协作方法的比较**：用户指出，自动生成的问题通常质量较低，因为人工智能难以识别重要内容，导致问题在逻辑上可能是正确的，但上下文不明确或不符合教育目标。
+
+讨论强调了未来工作的需要，以增加 AI 输出的发现性、可视化性和可解释性，并继续探索用于教育内容创建的人工智能与人类协作方法【110†source】。
+-->
+
+1. **Positive Reception of ReadingQuizMaker**: The system was well-received by participants, who found it easy and intuitive to use. They appreciated the question stem and AI suggestions, which helped them create high-quality questions.
+    
+2. **Preference for Human-AI Collaboration**: Instructors showed a strong preference for the human-AI teaming approach of ReadingQuizMaker over fully automated question generation. They valued having control over the question creation process, which the human-AI teaming approach provides.对人类与人工智能协作的偏好：与全自动问题生成相比，教师对 ReadingQuizMaker 的人类与人工智能协作方法表现出强烈的偏好。他们重视对问题创建过程的控制，这是人类与人工智能团队方法所提供的。
+    
+3. **Challenges and Future Directions**: The paper identifies several challenges that remain in the question creation process:
+    
+    - **Discoverability and Adoption of AI Suggestions**: AI suggestions were more likely to be adopted when they were readily accessible without requiring extra user actions. Paraphrase suggestions, which were automatically displayed, were more frequently used than summarization and negation operations.
+    - **Visualization and Explainability of AI Output**: Users struggled to understand the NLP outcomes, particularly for summarization. The paper suggests that better visualization techniques are needed to help users efficiently perceive NLP outcomes. Additionally, explaining how the model generates its results, especially for the negation model, could improve user understanding and control over the AI suggestions.
+4. **Automated versus Human-AI Collaborative Approach**: Users noted that automatically generated questions were often of lower quality because the AI struggled to identify important content to focus on, leading to questions that could be logically correct but out of context or not aligned with educational goals.
+
+---
+
+# 7. Limitation
+
+---
+
+# 8. Conclusion
