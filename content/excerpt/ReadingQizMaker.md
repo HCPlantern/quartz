@@ -161,3 +161,18 @@ ReadingQuizMaker的设计是根据形成性研究中确定的挑战和要求而�
 
 ## NLP Models
 
+<!--
+ReadingQuizMaker 系统采用了一系列基于 Transformer 的自然语言处理（NLP）模型，为用户提供建议。这些模型包括：
+
+1. **摘要生成模型**：采用了在 CNN-DailyMail 数据集上训练的精细调整的 BART（双向和自回归变换器）模型，用于将长段落压缩成简洁的摘要。具体使用的检查点是来自 HuggingFace 的 'bart-large-cnn'。
+
+2. **释义模型**：这个模型是在 PEGASUS（使用提取的间隔句进行抽象摘要序列到序列模型的预训练）上进行预训练的，并用于重新表达句子，同时保留其语义信息。使用了 HuggingFace 发布的 'pegasus_paraphrase' 检查点。
+
+3. **否定模型**：基于 BART 的模型，经过 WikiFactCheck-English 的精细调整，用于生成否定性声明。系统使用了作者在 HuggingFace 上发布的检查点，用于生成可用作测验中的干扰项的合理但不正确的选项。
+
+这些模型在 ReadingQuizMaker 内部具有不同的用途，以帮助教师创建高质量的测验问题。摘要生成模型特别适用于创建较长文本的摘要，释义模型有助于重新表述和简化句子以提高清晰度，而否定模型则有助于生成多项选择题中的合理但不正确的选项。这些模型的整合旨在使教师的问题创建过程更加健壮、灵活和高效，使他们能够生成更高质量的问题。
+-->
+
+1. **Abstractive Summarization Model**: Utilizes a fine-tuned BART (Bidirectional and Auto-Regressive Transformers) model that is trained on the CNN-DailyMail dataset.
+2. **Paraphrase Model**: This model is pretrained on PEGASUS (Pre-training with Extracted Gap-sentences for Abstractive Summarization Sequence-to-sequence models) and is used to rephrase sentences while retaining their semantic information
+3. **Negation Model**: A BART-based model fine-tuned on WikiFactCheck-English for negative claim generation.
