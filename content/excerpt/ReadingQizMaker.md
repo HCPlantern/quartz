@@ -25,6 +25,8 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 ---
 # 0. Abstract
 
+<!-- Test -->
+
 - Purpose: support *instructors* to conveniently design high-quality questions to help students comprehend readings
 - Adapt to natural workflow and offer *NLP-based* support
 - Evaluation Study: 
@@ -36,7 +38,7 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 
 # 1. Introduction
 
- <!-- 指定阅读材料的重要性：指定阅读材料在大学教育中至关重要，被认为有益于学习活动和课堂讨论。服从性低的问题：高等教育中一个长期存在的问题是，只有 20-30% 的学生完成阅读作业，随着社交媒体的兴起，这一趋势变得更加恶化。 
+<!-- This HTML comment is not YAML, so it would be collected. -->
 
 1. Assigned readings are crucial in college education. But a persistent issue in higher education is that only 20-30% of students complete their reading assignments, a trend that has worsened with the rise of social media.
 2. Various strategies and tools have been implemented to enhance students' reading experience, like social annotation tools, which, however, work better for students with self-regulated learning skills.
