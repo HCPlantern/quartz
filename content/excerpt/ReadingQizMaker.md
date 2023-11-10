@@ -25,3 +25,5 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 ---
 # 0.Abstract
 
+- Purpose: support *instructors* to conveniently design high-quality questions to help students comprehend readings
+- adapt to natural workflow and offer *NLP-based* support
