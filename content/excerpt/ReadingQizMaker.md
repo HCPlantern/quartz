@@ -40,3 +40,8 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 2. Various strategies and tools have been implemented to enhance students' reading experience, like social annotation tools, which, however, work better for students with self-regulated learning skills.
 3. Designing high-quality, thought-provoking questions is time-consuming and challenging, and existing NLP-based automatic question generation systems have low adoption rates in classrooms due to their domain specificity and poor quality.
 4. Introduce ReadingQuizMaker
+5. The paper claims three main contributions: 
+	1. revealing the challenges instructors face in creating reading quiz questions
+	2. introducing ReadingQuizMaker with its NLP-based support
+	3. An evaluation study of the system to demonstrate its usability and the advantages of a human-AI teaming approach​
+
