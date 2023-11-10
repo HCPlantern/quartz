@@ -205,7 +205,7 @@ Four key research questions:
 # 6. Discussion
 
 <!--
-“讨论”部分讨论了在对 ReadingQuizMaker 进行评估研究之后可能的未来方向。它概述了以下几点：
+“讨论”部分讨论了在对 ReadingQuizMaker 进行评估研究之后可能的未来方向。
 
 1. **ReadingQuizMaker 的积极反响**：参与者对该系统的反应非常积极，他们发现使用起来容易而直观。他们赞赏问题引导和 AI 建议，这些有助于他们创建高质量的问题。
 
@@ -217,23 +217,58 @@ Four key research questions:
 
 4. **自动化与人工智能与人类协作方法的比较**：用户指出，自动生成的问题通常质量较低，因为人工智能难以识别重要内容，导致问题在逻辑上可能是正确的，但上下文不明确或不符合教育目标。
 
-讨论强调了未来工作的需要，以增加 AI 输出的发现性、可视化性和可解释性，并继续探索用于教育内容创建的人工智能与人类协作方法【110†source】。
+讨论强调了未来工作的需要，以增加 AI 输出的发现性、可视化性和可解释性，并继续探索用于教育内容创建的人工智能与人类协作方法。
 -->
 
-1. **Positive Reception of ReadingQuizMaker**: The system was well-received by participants, who found it easy and intuitive to use. They appreciated the question stem and AI suggestions, which helped them create high-quality questions.
-    
-2. **Preference for Human-AI Collaboration**: Instructors showed a strong preference for the human-AI teaming approach of ReadingQuizMaker over fully automated question generation. They valued having control over the question creation process, which the human-AI teaming approach provides.对人类与人工智能协作的偏好：与全自动问题生成相比，教师对 ReadingQuizMaker 的人类与人工智能协作方法表现出强烈的偏好。他们重视对问题创建过程的控制，这是人类与人工智能团队方法所提供的。
-    
+1. **Positive Reception of ReadingQuizMaker**
+2. **Preference for Human-AI Collaboration**
 3. **Challenges and Future Directions**: The paper identifies several challenges that remain in the question creation process:
-    
-    - **Discoverability and Adoption of AI Suggestions**: AI suggestions were more likely to be adopted when they were readily accessible without requiring extra user actions. Paraphrase suggestions, which were automatically displayed, were more frequently used than summarization and negation operations.
-    - **Visualization and Explainability of AI Output**: Users struggled to understand the NLP outcomes, particularly for summarization. The paper suggests that better visualization techniques are needed to help users efficiently perceive NLP outcomes. Additionally, explaining how the model generates its results, especially for the negation model, could improve user understanding and control over the AI suggestions.
-4. **Automated versus Human-AI Collaborative Approach**: Users noted that automatically generated questions were often of lower quality because the AI struggled to identify important content to focus on, leading to questions that could be logically correct but out of context or not aligned with educational goals.
+    - **Discoverability and Adoption of AI Suggestions**
+    - **Visualization and Explainability of AI Output**
+4. **Automated versus Human-AI Collaborative Approach**
 
 ---
 
 # 7. Limitation
+<!--
+论文中的“限制”部分概述了关于 ReadingQuizMaker 系统的限制和进一步研究的潜在领域。
+
+1. **参与者样本较小**：研究承认参与者样本规模较小。计划进行未来研究，以更大的参与者群体来了解像 ReadingQuizMaker 这样的工具如何帮助问题创建，并观察随着时间的推移，对系统的信任和熟练程度的发展情况。
+
+2. **节省时间的自我报告**：在评估过程中，用户被要求自行报告使用 ReadingQuizMaker 的节省时间方面。虽然这提供了有关系统采用潜力的见解，但需要进行更广泛的定量研究，以确定系统的节省时间效益。
+
+3. **面向教师的评估研究**：研究的重点是从教师的角度评估 ReadingQuizMaker 的效用。需要进行更大规模的面向学生的实验，以确定生成的问题对学生的阅读理解和学习成果的影响。
+
+这些限制突出了未来工作中需要改进和拓展的领域，以更好地了解 ReadingQuizMaker 系统的效果和效率，以及它在教育环境中的广泛适用性。
+-->
+
+1. **Small Participant Sample**
+2. **Time-saving Self-reporting**
+3. **Teacher-Facing Evaluation Study**
+
 
 ---
 
 # 8. Conclusion
+
+<!--
+论文的“结论”部分总结了与 ReadingQuizMaker 相关的总体主张和发现。以下是关键要点：
+
+1. **支持教师**：ReadingQuizMaker 旨在帮助教师方便地创建有助于学生理解阅读材料的高质量问题。
+
+2. **适应性和 NLP 支持**：该系统适应教师创建问题的自然工作流程，提供基于 NLP 的支持以简化流程。
+
+3. **灵活性和控制**：教师可以灵活决定何时使用特定的 NLP 模型，选择这些模型的输入，并修改结果。
+
+4. **评估研究发现**：使用 ReadingQuizMaker 创建的问题与教师自行设计的问题相比具有可比性。教师赞赏该系统的易用性以及 NLP 建议的帮助。
+
+5. **对人工智能与人类协作的偏好**：教师更倾向于在 ReadingQuizMaker 中与人工智能协作的方法，而不是编辑自动生成的问题。
+
+6. **质量和相关性问题**：教师指出，没有他们的参与自动生成的问题往往质量较低，内容常常无关或脱离上下文。
+
+7. **教育内容创建的启示**：研究结果表明，在教育内容创建等关键任务中，允许用户在整个过程中输入并保持控制比完全自动化的方法更有效。
+
+结论强调了在利用人工智能和 NLP 模型增强教育内容创建过程中，人类的输入和控制的重要性，并建议在这种情境下，人工智能与人类的协作优于完全自动化。
+-->
+
+- human-AI collaboration is preferable to complete automation in this context
