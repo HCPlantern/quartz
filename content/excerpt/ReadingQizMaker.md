@@ -23,7 +23,7 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 2023.11.10
 
 ---
-# 0.Abstract
+# 0. Abstract
 
 - Purpose: support *instructors* to conveniently design high-quality questions to help students comprehend readings
 - Adapt to natural workflow and offer *NLP-based* support
@@ -37,3 +37,6 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 # 1. Introduction
 
 1. Assigned readings are crucial in college education. But a persistent issue in higher education is that only 20-30% of students complete their reading assignments, a trend that has worsened with the rise of social media.
+2. Various strategies and tools have been implemented to enhance students' reading experience, like social annotation tools, which, however, work better for students with self-regulated learning skills.
+3. Designing high-quality, thought-provoking questions is time-consuming and challenging, and existing NLP-based automatic question generation systems have low adoption rates in classrooms due to their domain specificity and poor quality.
+4. Introduce ReadingQuizMaker
