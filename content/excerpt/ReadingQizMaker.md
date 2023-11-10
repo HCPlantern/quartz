@@ -31,3 +31,9 @@ ReadingQuizMaker: A Human-NLP Collaborative System that Supports Instructors to 
 	- questions generated with ReadingQuizMaker comparable to their manually designed quizzes
 	- NLP suggestions satisfying and helpful
 	- show the importance of allowing users to control the use of AI and providing immediate previews of AI-generated outcomes​
+
+---
+
+# 1. Introduction
+
+1. Assigned readings are crucial in college education. But a persistent issue in higher education is that only 20-30% of students complete their reading assignments, a trend that has worsened with the rise of social media.
