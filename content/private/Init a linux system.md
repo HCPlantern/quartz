@@ -19,9 +19,6 @@ zsh:
 ```zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-
-sh -c "$(curl -fsSL https://mirror.ghproxy.com/raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-
-git clone https://mirror.ghproxy.com/github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
-
 ```
+
+curl -SL https://github.com/docker/compose/releases/download/v2.23.0/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
