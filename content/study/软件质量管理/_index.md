@@ -107,3 +107,6 @@ IDEAL 模型解决了软件组织在各种质量改进环境下的需要。它�
 - L: Leveraging 调整
 
 ![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/7.png)
+
+# PSP 个体软件过程
+
