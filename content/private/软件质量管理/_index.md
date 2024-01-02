@@ -70,10 +70,9 @@ tags:
 
 ## 软件过程改进模型
 
-软件过程改进模型指导过程改进，不涉及开发的过程。
+**软件过程改进模型**指导过程改进，不涉及开发的过程。不是软件过程管理。
 
 [[CMMI]]
-
 ### PDCA
 
 - Planning:
@@ -87,3 +86,14 @@ tags:
 	- 检查效果发现问题
 - Action:
 	- 总结经验纳入标准
+### IDEAL
+
+IDEAL 模型解决了软件组织在各种质量改进环境下的需要。它包括了软件过程改进周期中的五个阶段，IDEAL 是代表这五个阶段的单词的首字母。
+
+- I: Initiating 初始
+- D: Diagnosing 诊断
+- E: Establishing 建立
+- A: Acting 执行
+- L: Leveraging 调整
+
+![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/7.png)

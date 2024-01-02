@@ -1,3 +1,13 @@
+---
+id: 20240102124755
+title: CMMI
+aliases: 
+date: 2024-01-02 12:47
+draft: false
+tags:
+  - software-engineering
+---
+
 ### CMMI
 
 1. 刻画了软件团队/组织从不成熟到成熟的每个阶段的特征 (也就是 roadmap)
