@@ -27,16 +27,18 @@ tags:
 
 # 术语
 
-软件过程管理
+软件过程管理模型
 SPICE
 
 软件过程改进
+CMMI PDCA IDEAL
 
-软件过程
+软件过程/开发过程/开发方法
 
 XP SCRUM Cleanroom Gate TSP
 
 软件实践
+Waterfall SCRUM XP
 
 # 软件开发实践
 
