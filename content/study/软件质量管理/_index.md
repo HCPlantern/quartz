@@ -310,11 +310,11 @@ EVM，Earned Value Managerment
       2. 50-50 原则：只需要开始某项任务，即可以赋原 PV 值的 50%作为 EV 值，完成时，再加上另外的 50%
       3. 实际完成的工作所需成本 AC 不对 EV 值产生任何影响
 2. 中级实现
-   1. 在简单实现的基础上，加入日程偏差的计算，加入了成本线 (AC)
+   1. 在简单实现的基础上，加入日程偏差的计算，加入了 PV
    2. 典型计算方式有
       1. 日程偏差 SV = EV – PV
       2. 日程偏差指数 SPI = EV/PV；
-3. 高级实现：添加预测线（BAC），当任务足够多的时候，我们就可以让预测线尽可能平直，同时我们延伸挣值（EV），找到与预测线（BAC）的交点，我们就可以明确项目的落后时间
+3. 高级实现：添加实际成本 AC
 
 ![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/24.png)
 
