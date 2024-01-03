@@ -289,3 +289,5 @@ EVM，Earned Value Managerment
       1. 日程偏差 SV = EV – PV
       2. 日程偏差指数 SPI = EV/PV；
 3. 高级实现：添加预测线（BAC），当任务足够多的时候，我们就可以让预测线尽可能平直，同时我们延伸挣值（EV），找到与预测线（BAC）的交点，我们就可以明确项目的落后时间
+
+![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/24.png)
