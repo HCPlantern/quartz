@@ -235,3 +235,15 @@ TSP 提供了
 1. 验证 (Verification) 活动也是检验获得的产品和产品组件能不能满足各自事先定义好的需求规格；
 2. 确认 (Validation) 活动是为了确保产品可以满足客户的需求以及实际操作场景的要求。
 3. 验证 (Verification) 和确认 (Validation) 都是为了提升最终产品的质量⽽采取的措施。
+## 生命周期模型选择
+
+1. 生命周期模型的各个阶段
+   1. 项目启动阶段
+   2. 项目策划阶段
+   3. 需求开发阶段
+   4. 技术实现阶段
+   5. 集成与测试阶段
+   6. 交付与维护阶段
+   7. 项目总结
+
+![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/34.png)
