@@ -247,3 +247,13 @@ TSP 提供了
    7. 项目总结
 
 ![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/34.png)
+## 计划
+
+如何制定一份让人无法拒绝的计划，请描述基本步骤和一些注意事项 10'
+
+1. 制定**任务计划和日程计划**：前者描述项目所有的任务清单，任务之间的先后顺序、以及每个任务所需时间资源，后者描述了各个任务在日程上的安排，哪天开始哪天结束;
+2. 制定**资源计划**
+3. 这种⽇程计划的关键是必须⽤正推的⽅式来制订项⽬计划。⼀个典型的项⽬计划框架如下图
+4. 在这个过程中，除了概要设计和资源估算之外，其他环节尽可能⾃动化完成。充分参考历史数据进⾏估算。
+
+![](https://spricoder.oss-cn-shanghai.aliyuncs.com/2021-software-quality-management/img/exam/1.png)
