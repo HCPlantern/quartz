@@ -33,8 +33,8 @@ tags:
 
 可用性目标包括以下几点：
 - 易学性 (Learnability)
-- 高效率 (efficiency)
 - 易记性 (memorability)
+- 高效率 (efficiency)
 - 少出错 (Low error)
 - 主观满意度 (Satisfaction)
 
