@@ -2,7 +2,7 @@ import { QuartzComponentConstructor } from "./types"
 
 export default (() => {
     function Comment() {
-        return <script src="https://giscus.app/client.js"
+        return <div><script src="https://giscus.app/client.js"
             data-repo="hcplantern/quartz"
             data-repo-id="R_kgDOKMSueg"
             data-category="Announcements"
@@ -17,7 +17,7 @@ export default (() => {
             data-loading="lazy"
             crossorigin="anonymous"
             async>
-        </script>
+        </script></div>
     }
     return Comment
 }) satisfies QuartzComponentConstructor
