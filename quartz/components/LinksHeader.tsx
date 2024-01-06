@@ -27,7 +27,7 @@ export default (() => {
             <a href="/Books">Books</a>
           </span>
           <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg"></img>
+            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Pen/Color/pen_color.svg"></img>
             <a href="/Writings">Writings</a>
           </span>
           {/* <span>
