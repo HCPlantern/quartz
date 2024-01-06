@@ -15,6 +15,10 @@ export default (() => {
             <a href="https://hcplantern.top/">Blog</a>
           </span>
           <span>
+            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Keycap%20hashtag/Color/keycap_hashtag_color.svg"></img>
+            <a href="/tags">Tags</a>
+          </span>
+          <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/Color/laptop_color.svg"></img>
             <a href="/Comp">Computer</a>
           </span>
@@ -23,8 +27,8 @@ export default (() => {
             <a href="/Books">Books</a>
           </span>
           <span>
-            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Keycap%20hashtag/Color/keycap_hashtag_color.svg"></img>
-            <a href="/tags">Books</a>
+            <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/Color/books_color.svg"></img>
+            <a href="/Writings">Writings</a>
           </span>
           {/* <span>
             <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/Color/brain_color.svg"></img>
