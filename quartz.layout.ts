@@ -4,11 +4,11 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [Component.LinksHeader()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/HCPlantern",
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/hcplantern",
+      Blog: "https://hcplantern.top",
     },
   }),
 }
@@ -26,21 +26,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-        Component.Explorer({
-          mapFn: (node) => {
-            // don't change name of root node
-            if (node.depth > 0) {
-              // set emoji for file/folder
-              if (node.file) {
-                node.name = "📄 " + node.name
-              } else {
-                node.name = "📁 " + node.name
-              }
-            }
-          },
-        })
-    ),
+    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({
+      title: "Recent Notes",
+      limit: 5,
+    })),
   ],
   right: [
     Component.Graph(),
