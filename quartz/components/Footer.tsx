@@ -31,6 +31,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
+        <Comment />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
@@ -42,7 +43,6 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <Comment />
       </footer>
     )
   }
